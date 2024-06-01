@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify
 import logging
 
 app = Flask(__name__)
@@ -13,6 +13,9 @@ def load_csv(file_name):
         logging.debug(f"Loading CSV file from: {data_path}")
         df = pd.read_csv(data_path)
         return df
+    except pd.errors.ParserError as e:
+        logging.error(f"Error parsing CSV file: {e}")
+        return str(e)
     except Exception as e:
         logging.error(f"Error loading CSV file: {e}")
         return str(e)
