@@ -19,22 +19,12 @@ def fetch_github_file(repo, path, token):
     else:
         raise Exception(f"Failed to fetch file: {response.status_code}")
 
-def analyze_file_content(content):
+def analyze_file(content):
     df = pd.read_csv(StringIO(content))
-    return df.head().to_dict()
+    analysis = {
+        "summary": df.describe().to_dict(),
+        "recommendations": "Modify, remove, or add keywords based on the analysis"
+    }
+    return analysis
 
-@app.route('/analyze', methods=['GET'])
-def analyze():
-    repo = os.getenv('GITHUB_REPO')
-    token = os.getenv('GITHUB_TOKEN')
-    path = "data.csv"  # Update this path
-
-    try:
-        file_content = fetch_github_file(repo, path, token)
-        analysis_result = analyze_file_content(file_content)
-        return jsonify(analysis_result)
-    except Exception as e:
-        return jsonify({"error": str(e)})
-
-if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
+@app.route('/analyze/campaign', methods=['GET'
