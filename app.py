@@ -21,13 +21,13 @@ def fetch_github_file(repo, path, token):
 
 def analyze_file_content(content):
     df = pd.read_csv(StringIO(content))
-    return df.head().to_dict()  # Return the first few rows as a dictionary for JSON response
+    return df.head().to_dict()
 
 @app.route('/analyze', methods=['GET'])
 def analyze():
     repo = os.getenv('GITHUB_REPO')
     token = os.getenv('GITHUB_TOKEN')
-    path = "path/to/your/file.csv"  # Update with the actual file path in your repo
+    path = "data.csv"  # Update this path
 
     try:
         file_content = fetch_github_file(repo, path, token)
