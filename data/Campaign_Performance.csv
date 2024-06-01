@@ -1,0 +1,21 @@
+Campaign performance
+All time
+Campaign,Campaign state,Campaign type,Clicks,Impr.,CTR,Currency code,Avg. CPC,Cost,Impr. (Abs. Top) %,Impr. (Top) %,Conversions,View-through conv.,Cost / conv.,Conv. rate
+[Middle] Consideration Stage Mole & Gopher,Paused,Performance Max,64,562,11.39%,USD,1.82,116.72,0,0,10.00,0,11.67,14.49%
+[TOP] Awareness_Display_Gopher&Mole,Paused,Display,135,"115,125",0.12%,USD,1.74,234.30,0,0,0.00,0,0,0.00%
+BB_Awareness_Top,Paused,Display,0,0,0,USD,0,0.00,0,0,0.00,0,0,0
+BedBug_Leads_New,Paused,Search,45,422,10.66%,USD,3.68,165.82,43.37%,78.92%,1.00,0,165.82,2.22%
+BPM - Bedbugs,Enabled,Search,"2,953","61,535",4.80%,USD,5.02,14810.52,42.82%,79.97%,144.20,0,102.71,4.88%
+BPM - Cockroaches,Paused,Search,100,"10,801",0.93%,USD,4.01,401.11,58.94%,89.70%,5.00,0,80.22,5.00%
+BPM - Commercial,Paused,Search,52,"6,627",0.78%,USD,2.73,141.78,27.45%,82.35%,1.00,0,141.78,1.92%
+BPM - Flea & Tick,Paused,Search,189,"8,547",2.21%,USD,4.60,868.60,52.52%,92.99%,7.00,0,124.09,3.70%
+BPM - Mole & Gopher,Paused,Search,"1,567","55,979",2.80%,USD,5.17,8106.29,48.60%,81.38%,70.13,0,115.58,4.48%
+BPM - Mosquitos,Paused,Search,265,"20,196",1.31%,USD,3.99,1058.37,36.33%,87.65%,9.00,0,117.60,3.40%
+BPM - Rats & Mice,Paused,Search,"1,123","19,949",5.63%,USD,6.11,6864.61,42.98%,77.71%,77.17,0,88.96,6.87%
+BPM - Residential,Paused,Search,"1,752","43,811",4.00%,USD,6.99,12243.80,39.00%,83.08%,139.00,0,88.08,7.93%
+BPM - Termites,Paused,Search,366,"32,110",1.14%,USD,5.50,2011.78,20.51%,80.70%,19.00,0,105.88,5.19%
+BPM - Wasp & Hornet,Paused,Search,0,0,0,USD,0,0.00,0,0,0.00,0,0,0
+M&G_Awareness_Top,Paused,Display,116,"105,599",0.11%,USD,1.10,128.03,0,0,1.00,0,128.03,0.85%
+New_Rats&Mice_Leads,Paused,Search,4,26,15.38%,USD,0.84,3.35,16.67%,66.67%,0.00,0,0,0.00%
+Priority Pest,Paused,Search,"24,583","440,270",5.58%,USD,2.97,73083.77,32.17%,80.27%,982.00,0,74.42,3.99%
+Warm_Weather_03-10,Enabled,Search,535,"10,552",5.07%,USD,9.83,5258.36,36.16%,84.34%,41.50,0,126.71,7.76%
