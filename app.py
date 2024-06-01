@@ -51,33 +51,4 @@ def analyze_keyword():
         analysis_result = analyze_file(file_content)
         return jsonify(analysis_result)
     except Exception as e:
-        return jsonify({"error": str(e)})
-
-@app.route('/analyze/search_terms', methods=['GET'])
-def analyze_search_terms():
-    repo = os.getenv('GITHUB_REPO')
-    token = os.getenv('GITHUB_TOKEN')
-    path = "data/Search_Terms.csv"
-
-    try:
-        file_content = fetch_github_file(repo, path, token)
-        analysis_result = analyze_file(file_content)
-        return jsonify(analysis_result)
-    except Exception as e:
-        return jsonify({"error": str(e)})
-
-@app.route('/analyze/ads', methods=['GET'])
-def analyze_ads():
-    repo = os.getenv('GITHUB_REPO')
-    token = os.getenv('GITHUB_TOKEN')
-    path = "data/Ads_Performance.csv"
-
-    try:
-        file_content = fetch_github_file(repo, path, token)
-        analysis_result = analyze_file(file_content)
-        return jsonify(analysis_result)
-    except Exception as e:
-        return jsonify({"error": str(e)})
-
-if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
+        return jsonify({"error": str(e)
