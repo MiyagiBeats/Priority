@@ -6,19 +6,20 @@ import logging
 app = Flask(__name__)
 
 logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger(__name__)
 
 def load_csv(file_name):
     try:
         data_path = os.path.join(os.path.dirname(__file__), 'data', file_name)
-        logging.debug(f"Loading CSV file from: {data_path}")
+        logger.debug(f"Loading CSV file from: {data_path}")
         df = pd.read_csv(data_path, low_memory=False)
         df = df.apply(pd.to_numeric, errors='ignore')
         return df
     except pd.errors.ParserError as e:
-        logging.error(f"Error parsing CSV file: {e}")
+        logger.error(f"Error parsing CSV file: {e}")
         return str(e)
     except Exception as e:
-        logging.error(f"Error loading CSV file: {e}")
+        logger.error(f"Error loading CSV file: {e}")
         return str(e)
 
 def analyze_campaign_performance(df):
@@ -32,21 +33,21 @@ def analyze_campaign_performance(df):
                     "action": "improve ad relevance or keywords"
                 })
         except (ValueError, KeyError) as e:
-            logging.error(f"Error processing row in analyze_campaign_performance: {e}")
+            logger.error(f"Error processing row in analyze_campaign_performance: {e}")
     return recommendations
 
 def analyze_keyword_performance(df):
     recommendations = []
     for index, row in df.iterrows():
         try:
-            cpc = float(row['CPC']) if isinstance(row['CPC'], str) else row['CPC']
+            cpc = float(row['Avg. CPC']) if isinstance(row['Avg. CPC'], str) else row['Avg. CPC']
             if cpc > 1.0:
                 recommendations.append({
                     "keyword": row['Keyword'],
                     "action": "reduce CPC or remove"
                 })
         except (ValueError, KeyError) as e:
-            logging.error(f"Error processing row in analyze_keyword_performance: {e}")
+            logger.error(f"Error processing row in analyze_keyword_performance: {e}")
     return recommendations
 
 def analyze_search_terms(df):
@@ -60,7 +61,7 @@ def analyze_search_terms(df):
                     "action": "add as negative keyword"
                 })
         except (ValueError, KeyError) as e:
-            logging.error(f"Error processing row in analyze_search_terms: {e}")
+            logger.error(f"Error processing row in analyze_search_terms: {e}")
     return recommendations
 
 def analyze_ads_performance(df):
@@ -74,7 +75,7 @@ def analyze_ads_performance(df):
                     "action": "improve ad copy"
                 })
         except (ValueError, KeyError) as e:
-            logging.error(f"Error processing row in analyze_ads_performance: {e}")
+            logger.error(f"Error processing row in analyze_ads_performance: {e}")
     return recommendations
 
 def analyze_audience_performance(df):
@@ -88,7 +89,7 @@ def analyze_audience_performance(df):
                     "action": "review audience targeting or exclude"
                 })
         except (ValueError, KeyError) as e:
-            logging.error(f"Error processing row in analyze_audience_performance: {e}")
+            logger.error(f"Error processing row in analyze_audience_performance: {e}")
     return recommendations
 
 @app.route('/analyze/campaign', methods=['GET'])
@@ -97,7 +98,7 @@ def analyze_campaign():
     if isinstance(df, str):
         return jsonify({"error": df}), 500
     recommendations = analyze_campaign_performance(df)
-    return jsonify({"data": df.head().to_dict(), "recommendations": recommendations})
+    return jsonify({"data": df.to_dict(), "recommendations": recommendations})
 
 @app.route('/analyze/keyword', methods=['GET'])
 def analyze_keyword():
@@ -105,7 +106,7 @@ def analyze_keyword():
     if isinstance(df, str):
         return jsonify({"error": df}), 500
     recommendations = analyze_keyword_performance(df)
-    return jsonify({"data": df.head().to_dict(), "recommendations": recommendations})
+    return jsonify({"data": df.to_dict(), "recommendations": recommendations})
 
 @app.route('/analyze/search_terms', methods=['GET'])
 def analyze_search_terms():
@@ -113,7 +114,7 @@ def analyze_search_terms():
     if isinstance(df, str):
         return jsonify({"error": df}), 500
     recommendations = analyze_search_terms(df)
-    return jsonify({"data": df.head().to_dict(), "recommendations": recommendations})
+    return jsonify({"data": df.to_dict(), "recommendations": recommendations})
 
 @app.route('/analyze/ads', methods=['GET'])
 def analyze_ads():
@@ -121,7 +122,7 @@ def analyze_ads():
     if isinstance(df, str):
         return jsonify({"error": df}), 500
     recommendations = analyze_ads_performance(df)
-    return jsonify({"data": df.head().to_dict(), "recommendations": recommendations})
+    return jsonify({"data": df.to_dict(), "recommendations": recommendations})
 
 @app.route('/analyze/audience', methods=['GET'])
 def analyze_audience():
@@ -129,7 +130,7 @@ def analyze_audience():
     if isinstance(df, str):
         return jsonify({"error": df}), 500
     recommendations = analyze_audience_performance(df)
-    return jsonify({"data": df.head().to_dict(), "recommendations": recommendations})
+    return jsonify({"data": df.to_dict(), "recommendations": recommendations})
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)), debug=True)

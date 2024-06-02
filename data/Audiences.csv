@@ -1,480 +1,480 @@
-Audience segment,Audience segment state,Campaign,Ad group,Currency code,Ad group default max. CPC,Audience segment max CPC,Audience Segment Bid adj.,Targeting Setting,Clicks,Impr.,CTR,Avg. CPC,Cost,Avg. CPM
-People not in audiences,Removed,[TOP] Awareness_Display_Gopher&Mole,Ad group 1,USD,0.01,0, --,Targeting,134,"111,620",0.12%,1.71,228.58,2.05
-People not in audiences,Removed,BedBug_Leads_New,BB_New,USD,0.01,0, --,Observation,27,245,11.02%,0.87,23.55,96.12
-People not in audiences,Removed,BPM - Bedbugs,Bed Bugs,USD,0.01,0, --,Observation,"2,964","61,713",4.80%,5.02,14867.68,240.92
-People not in audiences,Removed,BPM - Cockroaches,Cockroaches,USD,0.01,0, --,Observation,100,"10,801",0.93%,4.01,401.11,37.14
-People not in audiences,Removed,BPM - Commercial,Comm Pest Control,USD,0.01,0, --,Observation,52,"6,627",0.78%,2.73,141.78,21.39
-People not in audiences,Removed,BPM - Flea & Tick,Flea and Tick,USD,0.01,0, --,Observation,189,"8,547",2.21%,4.60,868.60,101.63
-People not in audiences,Removed,BPM - Mole & Gopher,Mole and Gopher,USD,0.01,0, --,Observation,"1,567","55,979",2.80%,5.17,8106.29,144.81
-People not in audiences,Removed,BPM - Mosquitos,Mosquito Removal,USD,0.01,0, --,Observation,265,"20,196",1.31%,3.99,1058.37,52.41
-People not in audiences,Removed,BPM - Rats & Mice,Rats & Mice,USD,0.01,0, --,Observation,"1,123","19,949",5.63%,6.11,6864.61,344.11
-People not in audiences,Removed,BPM - Residential,Res Pest Control,USD,0.01,0, --,Observation,"1,752","43,811",4.00%,6.99,12243.80,279.47
-People not in audiences,Removed,BPM - Termites,Termite Inspection,USD,0.01,0, --,Observation,65,"14,604",0.45%,1.90,123.50,8.46
-People not in audiences,Removed,BPM - Termites,Termites,USD,0.01,0, --,Observation,301,"17,506",1.72%,6.27,1888.28,107.86
-People not in audiences,Removed,M&G_Awareness_Top,Ad group 1,USD,0.01,0, --,Targeting,16,"8,751",0.18%,0.84,13.44,1.54
-People not in audiences,Removed,New_Rats&Mice_Leads,Ad group 1,USD,0.01,0, --,Observation,3,13,23.08%,0.82,2.46,189.23
-People not in audiences,Removed,Priority Pest,Ants,USD,0.01,0, --,Observation,215,"3,698",5.81%,1.24,265.63,71.83
-People not in audiences,Removed,Priority Pest,Bed Bugs,USD,0.01,0, --,Observation,"2,249","38,859",5.79%,2.71,6083.67,156.56
-People not in audiences,Removed,Priority Pest,Bedbugs - Dyn,USD,0.01,0, --,Observation,77,"1,382",5.57%,11.70,900.57,651.64
-People not in audiences,Removed,Priority Pest,Cockroach - Dyn,USD,0.01,0, --,Observation,0,37,0.00%,0,0.00,0.00
-People not in audiences,Removed,Priority Pest,Cockroaches,USD,0.01,0, --,Observation,918,"15,040",6.10%,2.14,1961.75,130.44
-People not in audiences,Removed,Priority Pest,Comm Pest Control,USD,0.01,0, --,Observation,52,"1,313",3.96%,3.42,177.99,135.56
-People not in audiences,Removed,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0, --,Observation,1,32,3.13%,1.37,1.37,42.81
-People not in audiences,Removed,Priority Pest,Flea and Tick,USD,0.01,0, --,Observation,722,"12,783",5.65%,1.64,1185.30,92.72
-People not in audiences,Removed,Priority Pest,Insects,USD,0.01,0, --,Observation,123,"3,745",3.28%,2.00,246.35,65.78
-People not in audiences,Removed,Priority Pest,Mole and Gopher,USD,0.01,0, --,Observation,"1,159","19,640",5.90%,3.50,4053.50,206.39
-People not in audiences,Removed,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0, --,Observation,3,83,3.61%,8.01,24.03,289.52
-People not in audiences,Removed,Priority Pest,Mosquito Removal,USD,0.01,0, --,Observation,224,"6,917",3.24%,1.65,369.83,53.47
-People not in audiences,Removed,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0, --,Observation,3,38,7.89%,1.02,3.07,80.79
-People not in audiences,Removed,Priority Pest,Rats & Mice,USD,0.01,0, --,Observation,798,"20,343",3.92%,4.06,3243.24,159.43
-People not in audiences,Removed,Priority Pest,Rats and Mice - Dyn,USD,0.01,0, --,Observation,4,78,5.13%,16.15,64.60,828.21
-People not in audiences,Removed,Priority Pest,Res Pest Control,USD,0.01,0, --,Observation,760,"18,783",4.05%,3.41,2592.41,138.02
-People not in audiences,Removed,Priority Pest,Res Pest Control - Dyn,USD,0.01,0, --,Observation,16,405,3.95%,5.88,94.13,232.42
-People not in audiences,Removed,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0, --,Observation,0,2,0.00%,0,0.00,0.00
-People not in audiences,Removed,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0, --,Observation,2,14,14.29%,1.46,2.91,207.86
-People not in audiences,Removed,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0, --,Observation,1,12,8.33%,1.41,1.41,117.50
-People not in audiences,Removed,Priority Pest,Spiders,USD,0.01,0, --,Observation,146,"2,462",5.93%,1.64,240.12,97.53
-People not in audiences,Removed,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,14,714,1.96%,4.87,68.19,95.50
-People not in audiences,Removed,Priority Pest,Termite Inspection - Dyn,USD,0.01,0, --,Observation,1,51,1.96%,2.03,2.03,39.80
-People not in audiences,Removed,Priority Pest,Termites,USD,0.01,0, --,Observation,109,"3,811",2.86%,4.36,475.07,124.66
-People not in audiences,Removed,Priority Pest,Termites - Dyn,USD,0.01,0, --,Observation,1,81,1.23%,2.41,2.41,29.75
-People not in audiences,Removed,Priority Pest,Wasp & Hornet,USD,0.01,0, --,Observation,89,"2,227",4.00%,2.57,228.60,102.65
-People not in audiences,Removed,Warm_Weather_03-10,Flea & Tick,USD,0.01,0, --,Observation,11,298,3.69%,7.05,77.59,260.37
-People not in audiences,Removed,Warm_Weather_03-10,General Pest,USD,0.01,0, --,Observation,36,922,3.90%,12.12,436.15,473.05
-People not in audiences,Removed,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0, --,Observation,12,201,5.97%,6.16,73.97,368.01
-People not in audiences,Removed,Warm_Weather_03-10,Mosquito,USD,0.01,0, --,Observation,1,65,1.54%,2.78,2.78,42.77
-People not in audiences,Removed,Warm_Weather_03-10,Termite,USD,0.01,0, --,Observation,2,102,1.96%,9.38,18.76,183.92
-[TOP]Awareness_Display_Mole&Gopher,Enabled,[TOP] Awareness_Display_Gopher&Mole,Ad group 1,USD,0.01,0.01, --,Targeting,1,"3,147",0.03%,5.06,5.06,1.61
-Shoppers › Bargain Hunters,Enabled,BedBug_Leads_New,BB_New,USD,0.01,0, --,Observation,1,26,3.85%,17.06,17.06,656.15
-BB_Bed Bug Specific Searches,Enabled,BB_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0,0,0,0,0.00,0
-BB_DIY Home Improvement Enthusiasts,Enabled,BB_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0,0,0,0,0.00,0
-BB_Environmentally Conscious Consumers,Enabled,BB_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0,0,0,0,0.00,0
-BB_Families in Urban Areas,Enabled,BB_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0,0,0,0,0.00,0
-BB_Frequent Travelers,Enabled,BB_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0,0,0,0,0.00,0
-BB_Health-Conscious Individuals,Enabled,BB_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0,0,0,0,0.00,0
-BB_Homeowners with Pest Concerns,Enabled,BB_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0,0,0,0,0.00,0
-BB_Property Managers and Landlords,Enabled,BB_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Ants,USD,0.01,0, +0%,Observation,0,1,0.00%,0,0.00,0.00
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Bed Bugs,USD,0.01,0, +0%,Observation,43,792,5.43%,6.11,262.83,331.85
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Cockroaches,USD,0.01,0, +0%,Observation,21,439,4.78%,3.92,82.30,187.47
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0, +0%,Observation,0,1,0.00%,0,0.00,0.00
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Flea and Tick,USD,0.01,0, +0%,Observation,1,1,100.00%,5.53,5.53,5530.00
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Insects,USD,0.01,0, +0%,Observation,0,1,0.00%,0,0.00,0.00
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0, +0%,Observation,62,764,8.12%,5.82,360.68,472.10
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Rats & Mice,USD,0.01,0, +0%,Observation,47,706,6.66%,5.84,274.53,388.86
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Res Pest Control,USD,0.01,0, +0%,Observation,11,399,2.76%,7.41,81.54,204.36
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Spiders,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Termites,USD,0.01,0, +0%,Observation,1,96,1.04%,8.06,8.06,83.96
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0, --,Observation,8,116,6.90%,9.92,79.39,684.40
-Home & Garden › Do-It-Yourselfers,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0, --,Observation,15,350,4.29%,13.51,202.64,578.97
-Home & Garden › Do-It-Yourselfers,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0, --,Observation,8,97,8.25%,9.99,79.94,824.12
-Home & Garden › Do-It-Yourselfers,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0, --,Observation,2,49,4.08%,7.74,15.47,315.71
-Home & Garden › Do-It-Yourselfers,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Do-It-Yourselfers,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0, --,Observation,0,51,0.00%,0,0.00,0.00
-Home & Garden,Enabled,[TOP] Awareness_Display_Gopher&Mole,Ad group 1,USD,0.01,0.01, --,Targeting,0,256,0.00%,0,0.39,1.54
-Home & Garden,Enabled,BedBug_Leads_New,BB_New,USD,0.01,0, --,Observation,6,48,12.50%,5.55,33.32,694.17
-Home & Garden,Enabled,New_Rats&Mice_Leads,Ad group 1,USD,0.01,0, --,Observation,0,3,0.00%,0,0.00,0.00
-Home & Garden,Enabled,Priority Pest,Ants,USD,0.01,0, --,Observation,298,"3,913",7.62%,1.24,369.30,94.38
-Home & Garden,Enabled,Priority Pest,Bed Bugs,USD,0.01,0, --,Observation,"1,517","23,377",6.49%,2.81,4270.34,182.67
-Home & Garden,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0, --,Observation,45,669,6.73%,13.34,600.09,897.00
-Home & Garden,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0, --,Observation,0,31,0.00%,0,0.00,0.00
-Home & Garden,Enabled,Priority Pest,Cockroaches,USD,0.01,0, --,Observation,609,"9,076",6.71%,2.50,1523.71,167.88
-Home & Garden,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0, --,Observation,32,884,3.62%,3.79,121.26,137.17
-Home & Garden,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0, --,Observation,0,16,0.00%,0,0.00,0.00
-Home & Garden,Enabled,Priority Pest,Flea and Tick,USD,0.01,0, --,Observation,808,"12,498",6.47%,1.60,1292.10,103.38
-Home & Garden,Enabled,Priority Pest,Insects,USD,0.01,0, --,Observation,133,"3,030",4.39%,2.47,328.77,108.51
-Home & Garden,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0, --,Observation,951,"12,850",7.40%,2.54,2418.32,188.20
-Home & Garden,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0, --,Observation,5,51,9.80%,8.69,43.44,851.76
-Home & Garden,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0, --,Observation,435,"7,805",5.57%,1.62,704.29,90.24
-Home & Garden,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0, --,Observation,1,37,2.70%,1.11,1.11,30.00
-Home & Garden,Enabled,Priority Pest,Rats & Mice,USD,0.01,0, --,Observation,708,"13,434",5.27%,3.72,2633.11,196.00
-Home & Garden,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0, --,Observation,5,52,9.62%,10.54,52.68,1013.08
-Home & Garden,Enabled,Priority Pest,Res Pest Control,USD,0.01,0, --,Observation,962,"15,120",6.36%,2.90,2790.84,184.58
-Home & Garden,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0, --,Observation,8,250,3.20%,4.08,32.63,130.52
-Home & Garden,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0, --,Observation,4,17,23.53%,1.25,4.98,292.94
-Home & Garden,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0, --,Observation,0,16,0.00%,0,0.00,0.00
-Home & Garden,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0, --,Observation,4,16,25.00%,1.25,5.01,313.13
-Home & Garden,Enabled,Priority Pest,Spiders,USD,0.01,0, --,Observation,119,"2,342",5.08%,1.52,180.96,77.27
-Home & Garden,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,10,420,2.38%,9.62,96.20,229.05
-Home & Garden,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0, --,Observation,0,38,0.00%,0,0.00,0.00
-Home & Garden,Enabled,Priority Pest,Termites,USD,0.01,0, --,Observation,85,"2,441",3.48%,4.75,403.35,165.24
-Home & Garden,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0, --,Observation,2,72,2.78%,7.76,15.52,215.56
-Home & Garden,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0, --,Observation,116,"1,954",5.94%,2.03,235.27,120.40
-Home & Garden,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0, --,Observation,14,225,6.22%,8.34,116.69,518.62
-Home & Garden,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0, --,Observation,31,698,4.44%,10.90,337.94,484.15
-Home & Garden,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0, --,Observation,11,167,6.59%,7.09,77.96,466.83
-Home & Garden,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0, --,Observation,6,73,8.22%,5.34,32.03,438.77
-Home & Garden,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0, --,Observation,3,91,3.30%,6.24,18.71,205.60
-Home & Garden › Home & Garden Services,Enabled,New_Rats&Mice_Leads,Ad group 1,USD,0.01,0, --,Observation,0,6,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Ants,USD,0.01,0, --,Observation,111,"2,019",5.50%,1.21,133.80,66.27
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Bed Bugs,USD,0.01,0, --,Observation,941,"16,147",5.83%,3.33,3130.75,193.89
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0, --,Observation,38,593,6.41%,15.03,571.06,963.00
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0, --,Observation,0,14,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Cockroaches,USD,0.01,0, --,Observation,401,"6,338",6.33%,2.40,964.02,152.10
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0, --,Observation,21,700,3.00%,3.53,74.03,105.76
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0, --,Observation,0,19,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Flea and Tick,USD,0.01,0, --,Observation,323,"6,137",5.26%,1.62,523.10,85.24
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Insects,USD,0.01,0, --,Observation,94,"2,152",4.37%,2.49,233.68,108.59
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0, --,Observation,529,"8,479",6.24%,3.13,1656.48,195.36
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0, --,Observation,1,30,3.33%,6.44,6.44,214.67
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0, --,Observation,216,"4,263",5.07%,1.55,333.96,78.34
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0, --,Observation,0,20,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Rats & Mice,USD,0.01,0, --,Observation,460,"9,616",4.78%,4.26,1958.25,203.64
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0, --,Observation,1,33,3.03%,3.47,3.47,105.15
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Res Pest Control,USD,0.01,0, --,Observation,540,"10,279",5.25%,3.32,1791.86,174.32
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0, --,Observation,6,210,2.86%,5.10,30.58,145.62
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0, --,Observation,1,6,16.67%,1.48,1.48,246.67
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0, --,Observation,3,9,33.33%,1.44,4.32,480.00
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0, --,Observation,1,8,12.50%,1.13,1.13,141.25
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Spiders,USD,0.01,0, --,Observation,68,"1,307",5.20%,1.76,119.89,91.73
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,15,392,3.83%,7.73,116.02,295.97
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0, --,Observation,0,24,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Termites,USD,0.01,0, --,Observation,37,"1,838",2.01%,3.36,124.22,67.58
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0, --,Observation,1,49,2.04%,4.53,4.53,92.45
-Home & Garden › Home & Garden Services,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0, --,Observation,44,"1,136",3.87%,2.62,115.33,101.52
-Home & Garden › Home & Garden Services,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0, --,Observation,17,186,9.14%,8.47,143.94,773.87
-Home & Garden › Home & Garden Services,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0, --,Observation,38,659,5.77%,14.20,539.44,818.57
-Home & Garden › Home & Garden Services,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0, --,Observation,8,204,3.92%,7.00,56.01,274.56
-Home & Garden › Home & Garden Services,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0, --,Observation,0,84,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0, --,Observation,4,121,3.31%,15.72,62.87,519.59
-Home & Garden › Home Improvement,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home Improvement,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0, --,Observation,4,98,4.08%,6.87,27.46,280.20
-Home & Garden › Home Improvement,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0, --,Observation,15,371,4.04%,12.62,189.30,510.24
-Home & Garden › Home Improvement,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0, --,Observation,8,128,6.25%,3.63,29.01,226.64
-Home & Garden › Home Improvement,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0, --,Observation,2,52,3.85%,12.85,25.69,494.04
-Home & Garden › Home Improvement,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home Improvement,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0, --,Observation,4,63,6.35%,8.21,32.83,521.11
-Homeownership Status › Homeowners,Enabled,[TOP] Awareness_Display_Gopher&Mole,Ad group 1,USD,0.01,0.01, --,Targeting,0,82,0.00%,0,0.22,2.68
-Homeownership Status › Homeowners,Enabled,BedBug_Leads_New,BB_New,USD,0.01,0, --,Observation,0,6,0.00%,0,0.00,0.00
-Homeownership Status › Homeowners,Enabled,Priority Pest,Ants,USD,0.01,0, --,Observation,87,951,9.15%,1.27,110.44,116.13
-Homeownership Status › Homeowners,Enabled,Priority Pest,Bed Bugs,USD,0.01,0, --,Observation,489,"5,767",8.48%,2.49,1216.85,211.00
-Homeownership Status › Homeowners,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0, --,Observation,18,209,8.61%,10.65,191.63,916.89
-Homeownership Status › Homeowners,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0, --,Observation,0,9,0.00%,0,0.00,0.00
-Homeownership Status › Homeowners,Enabled,Priority Pest,Cockroaches,USD,0.01,0, --,Observation,131,"1,817",7.21%,1.81,237.56,130.74
-Homeownership Status › Homeowners,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0, --,Observation,7,206,3.40%,3.18,22.28,108.16
-Homeownership Status › Homeowners,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0, --,Observation,0,6,0.00%,0,0.00,0.00
-Homeownership Status › Homeowners,Enabled,Priority Pest,Flea and Tick,USD,0.01,0, --,Observation,221,"3,241",6.82%,1.60,354.17,109.28
-Homeownership Status › Homeowners,Enabled,Priority Pest,Insects,USD,0.01,0, --,Observation,35,796,4.40%,2.39,83.63,105.06
-Homeownership Status › Homeowners,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0, --,Observation,266,"3,128",8.50%,2.64,702.59,224.61
-Homeownership Status › Homeowners,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0, --,Observation,1,15,6.67%,9.72,9.72,648.00
-Homeownership Status › Homeowners,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0, --,Observation,107,"1,925",5.56%,1.41,150.35,78.10
-Homeownership Status › Homeowners,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0, --,Observation,0,16,0.00%,0,0.00,0.00
-Homeownership Status › Homeowners,Enabled,Priority Pest,Rats & Mice,USD,0.01,0, --,Observation,170,"3,132",5.43%,3.82,649.08,207.24
-Homeownership Status › Homeowners,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0, --,Observation,0,21,0.00%,0,0.00,0.00
-Homeownership Status › Homeowners,Enabled,Priority Pest,Res Pest Control,USD,0.01,0, --,Observation,266,"3,407",7.81%,2.16,574.36,168.58
-Homeownership Status › Homeowners,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0, --,Observation,10,80,12.50%,4.97,49.71,621.38
-Homeownership Status › Homeowners,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0, --,Observation,0,1,0.00%,0,0.00,0.00
-Homeownership Status › Homeowners,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0, --,Observation,0,2,0.00%,0,0.00,0.00
-Homeownership Status › Homeowners,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0, --,Observation,0,2,0.00%,0,0.00,0.00
-Homeownership Status › Homeowners,Enabled,Priority Pest,Spiders,USD,0.01,0, --,Observation,35,583,6.00%,1.27,44.58,76.47
-Homeownership Status › Homeowners,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,1,124,0.81%,5.76,5.76,46.45
-Homeownership Status › Homeowners,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Homeownership Status › Homeowners,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Homeownership Status › Homeowners,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0, --,Observation,1,7,14.29%,10.61,10.61,1515.71
-Homeownership Status › Homeowners,Enabled,Priority Pest,Termites,USD,0.01,0, --,Observation,20,657,3.04%,3.25,64.96,98.87
-Homeownership Status › Homeowners,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0, --,Observation,0,9,0.00%,0,0.00,0.00
-Homeownership Status › Homeowners,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0, --,Observation,29,558,5.20%,1.52,44.22,79.25
-Homeownership Status › Homeowners,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Homeownership Status › Homeowners,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0, --,Observation,9,114,7.89%,9.50,85.50,750.00
-Homeownership Status › Homeowners,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0, --,Observation,14,275,5.09%,7.68,107.49,390.87
-Homeownership Status › Homeowners,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0, --,Observation,8,89,8.99%,5.06,40.50,455.06
-Homeownership Status › Homeowners,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0, --,Observation,2,29,6.90%,7.47,14.94,515.17
-Homeownership Status › Homeowners,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Homeownership Status › Homeowners,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0, --,Observation,1,30,3.33%,4.27,4.27,142.33
-Lifestyles & Hobbies › Family-Focused › Homeschooling Parents,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Family-Focused › Homeschooling Parents,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0, --,Observation,0,12,0.00%,0,0.00,0.00
-Lifestyles & Hobbies › Family-Focused › Homeschooling Parents,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0, --,Observation,3,42,7.14%,8.37,25.12,598.10
-Lifestyles & Hobbies › Family-Focused › Homeschooling Parents,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0, --,Observation,1,4,25.00%,2.07,2.07,517.50
-Lifestyles & Hobbies › Family-Focused › Homeschooling Parents,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0, --,Observation,0,7,0.00%,0,0.00,0.00
-Lifestyles & Hobbies › Family-Focused › Homeschooling Parents,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Family-Focused › Homeschooling Parents,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0, --,Observation,0,1,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Ants,USD,0.01,0, --,Observation,12,197,6.09%,1.42,17.06,86.60
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Bed Bugs,USD,0.01,0, --,Observation,81,"1,279",6.33%,2.89,234.00,182.96
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0, --,Observation,1,43,2.33%,40.62,40.62,944.65
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0, --,Observation,0,1,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Cockroaches,USD,0.01,0, --,Observation,28,470,5.96%,2.72,76.16,162.04
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0, --,Observation,4,56,7.14%,2.03,8.13,145.18
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Flea and Tick,USD,0.01,0, --,Observation,43,661,6.51%,1.52,65.36,98.88
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Insects,USD,0.01,0, --,Observation,9,200,4.50%,2.81,25.27,126.35
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0, --,Observation,50,829,6.03%,1.98,99.18,119.64
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0, --,Observation,0,5,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0, --,Observation,18,426,4.23%,1.52,27.36,64.23
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0, --,Observation,1,3,33.33%,0.28,0.28,93.33
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Rats & Mice,USD,0.01,0, --,Observation,33,735,4.49%,3.37,111.36,151.51
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0, --,Observation,0,1,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Res Pest Control,USD,0.01,0, --,Observation,23,829,2.77%,3.37,77.59,93.59
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0, --,Observation,0,7,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Spiders,USD,0.01,0, --,Observation,11,138,7.97%,1.91,20.96,151.88
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,18,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0, --,Observation,0,4,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Termites,USD,0.01,0, --,Observation,1,74,1.35%,1.31,1.31,17.70
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0, --,Observation,0,1,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0, --,Observation,8,99,8.08%,2.31,18.44,186.26
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0, --,Observation,1,36,2.78%,1.75,1.75,48.61
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0, --,Observation,2,97,2.06%,8.48,16.95,174.74
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0, --,Observation,0,44,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0, --,Observation,0,22,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0, --,Observation,1,26,3.85%,2.32,2.32,89.23
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Ants,USD,0.01,0, --,Observation,13,199,6.53%,1.13,14.72,73.97
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Bed Bugs,USD,0.01,0, --,Observation,50,770,6.49%,3.15,157.40,204.42
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0, --,Observation,0,8,0.00%,0,0.00,0.00
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0, --,Observation,0,1,0.00%,0,0.00,0.00
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Cockroaches,USD,0.01,0, --,Observation,17,307,5.54%,2.27,38.55,125.57
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0, --,Observation,3,42,7.14%,2.53,7.58,180.48
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0, --,Observation,0,3,0.00%,0,0.00,0.00
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Flea and Tick,USD,0.01,0, --,Observation,26,555,4.68%,1.38,35.86,64.61
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Insects,USD,0.01,0, --,Observation,10,185,5.41%,1.37,13.73,74.22
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0, --,Observation,62,883,7.02%,2.46,152.68,172.91
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0, --,Observation,1,5,20.00%,2.78,2.78,556.00
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0, --,Observation,30,591,5.08%,1.90,56.91,96.29
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0, --,Observation,0,1,0.00%,0,0.00,0.00
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Rats & Mice,USD,0.01,0, --,Observation,27,516,5.23%,1.72,46.35,89.83
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0, --,Observation,0,1,0.00%,0,0.00,0.00
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Res Pest Control,USD,0.01,0, --,Observation,46,813,5.66%,2.65,121.95,150.00
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0, --,Observation,1,13,7.69%,7.07,7.07,544.13
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0, --,Observation,0,4,0.00%,0,0.00,0.00
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0, --,Observation,0,1,0.00%,0,0.00,0.00
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Spiders,USD,0.01,0, --,Observation,5,103,4.85%,2.20,10.98,106.60
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,23,0.00%,0,0.00,0.00
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0, --,Observation,1,3,33.33%,1.22,1.22,406.67
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Termites,USD,0.01,0, --,Observation,4,114,3.51%,3.12,12.48,109.47
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0, --,Observation,0,4,0.00%,0,0.00,0.00
-Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0, --,Observation,5,117,4.27%,1.46,7.31,62.48
-M&G_Garden and Lawn Care,Removed,M&G_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0,"1,397",0.00%,0,1.31,0.94
-M&G_Gardening and Home Improvement Content Readers,Enabled,M&G_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,29,"19,549",0.15%,0.90,26.20,1.34
-M&G_Home & Garden Enthusiasts,Enabled,M&G_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,8,"5,566",0.14%,1.55,12.36,2.22
-M&G_Mole & Gopher Problem Searches,Enabled,M&G_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,50,"51,700",0.10%,1.16,58.04,1.12
-M&G_Outdoor and Property Maintenance,Enabled,M&G_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,7,"6,106",0.11%,0.87,6.10,1.00
-M&G_Pest Control Seekers,Removed,M&G_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0,576,0.00%,0,0.53,0.92
-M&G_Rural and Suburban Homeowners,Enabled,M&G_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,6,"11,954",0.05%,1.67,10.03,0.84
-Lifestyles & Hobbies › Outdoor Enthusiasts,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Outdoor Enthusiasts,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0, --,Observation,9,163,5.52%,9.25,83.24,510.67
-Lifestyles & Hobbies › Outdoor Enthusiasts,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0, --,Observation,35,461,7.59%,9.75,341.26,740.26
-Lifestyles & Hobbies › Outdoor Enthusiasts,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0, --,Observation,7,121,5.79%,7.06,49.43,408.51
-Lifestyles & Hobbies › Outdoor Enthusiasts,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0, --,Observation,3,56,5.36%,19.02,57.05,1018.75
-Lifestyles & Hobbies › Outdoor Enthusiasts,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Outdoor Enthusiasts,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0, --,Observation,1,74,1.35%,5.16,5.16,69.73
-Home & Garden › Outdoor Items,Removed,Priority Pest,Ants,USD,0.01,0, --,Observation,25,431,5.80%,1.31,32.71,75.89
-Home & Garden › Outdoor Items,Removed,Priority Pest,Bed Bugs,USD,0.01,0, --,Observation,72,"1,079",6.67%,1.29,92.72,85.93
-Home & Garden › Outdoor Items,Removed,Priority Pest,Cockroaches,USD,0.01,0, --,Observation,32,454,7.05%,1.25,40.10,88.33
-Home & Garden › Outdoor Items,Removed,Priority Pest,Comm Pest Control,USD,0.01,0, --,Observation,2,75,2.67%,1.41,2.82,37.60
-Home & Garden › Outdoor Items,Removed,Priority Pest,Flea and Tick,USD,0.01,0, --,Observation,66,"1,117",5.91%,1.31,86.43,77.38
-Home & Garden › Outdoor Items,Removed,Priority Pest,Insects,USD,0.01,0, --,Observation,16,276,5.80%,1.20,19.22,69.64
-Home & Garden › Outdoor Items,Removed,Priority Pest,Mole and Gopher,USD,0.01,0, --,Observation,71,959,7.40%,1.60,113.70,118.56
-Home & Garden › Outdoor Items,Removed,Priority Pest,Mosquito Removal,USD,0.01,0, --,Observation,43,"1,054",4.08%,1.29,55.64,52.79
-Home & Garden › Outdoor Items,Removed,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0, --,Observation,0,2,0.00%,0,0.00,0.00
-Home & Garden › Outdoor Items,Removed,Priority Pest,Rats & Mice,USD,0.01,0, --,Observation,45,654,6.88%,1.55,69.68,106.54
-Home & Garden › Outdoor Items,Removed,Priority Pest,Res Pest Control,USD,0.01,0, --,Observation,63,953,6.61%,1.18,74.39,78.06
-Home & Garden › Outdoor Items,Removed,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Outdoor Items,Removed,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0, --,Observation,0,3,0.00%,0,0.00,0.00
-Home & Garden › Outdoor Items,Removed,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0, --,Observation,0,3,0.00%,0,0.00,0.00
-Home & Garden › Outdoor Items,Removed,Priority Pest,Spiders,USD,0.01,0, --,Observation,14,186,7.53%,1.23,17.24,92.69
-Home & Garden › Outdoor Items,Removed,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,6,0.00%,0,0.00,0.00
-Home & Garden › Outdoor Items,Removed,Priority Pest,Termites,USD,0.01,0, --,Observation,4,87,4.60%,2.82,11.26,129.43
-Home & Garden › Outdoor Items,Removed,Priority Pest,Wasp & Hornet,USD,0.01,0, --,Observation,2,131,1.53%,1.39,2.77,21.15
-Parental Status › Parents › Parents of Grade-Schoolers (6-12 years),Enabled,Warm_Weather_03-10,Ant,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Grade-Schoolers (6-12 years),Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0, --,Observation,0,8,0.00%,0,0.00,0.00
-Parental Status › Parents › Parents of Grade-Schoolers (6-12 years),Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0, --,Observation,0,6,0.00%,0,0.00,0.00
-Parental Status › Parents › Parents of Grade-Schoolers (6-12 years),Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0, --,Observation,0,2,0.00%,0,0.00,0.00
-Parental Status › Parents › Parents of Grade-Schoolers (6-12 years),Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0, --,Observation,0,4,0.00%,0,0.00,0.00
-Parental Status › Parents › Parents of Grade-Schoolers (6-12 years),Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Grade-Schoolers (6-12 years),Enabled,Warm_Weather_03-10,Termite,USD,0.01,0, --,Observation,0,1,0.00%,0,0.00,0.00
-Parental Status › Parents › Parents of Infants (0-1 years),Enabled,Warm_Weather_03-10,Ant,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Infants (0-1 years),Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Infants (0-1 years),Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Infants (0-1 years),Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0, --,Observation,0,2,0.00%,0,0.00,0.00
-Parental Status › Parents › Parents of Infants (0-1 years),Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Infants (0-1 years),Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Infants (0-1 years),Enabled,Warm_Weather_03-10,Termite,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Preschoolers (4-5 years),Enabled,Warm_Weather_03-10,Ant,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Preschoolers (4-5 years),Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Preschoolers (4-5 years),Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Preschoolers (4-5 years),Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Preschoolers (4-5 years),Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Preschoolers (4-5 years),Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Preschoolers (4-5 years),Enabled,Warm_Weather_03-10,Termite,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Toddlers (1-3 years),Enabled,Warm_Weather_03-10,Ant,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Toddlers (1-3 years),Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Toddlers (1-3 years),Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0, --,Observation,0,1,0.00%,0,0.00,0.00
-Parental Status › Parents › Parents of Toddlers (1-3 years),Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0, --,Observation,0,1,0.00%,0,0.00,0.00
-Parental Status › Parents › Parents of Toddlers (1-3 years),Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Toddlers (1-3 years),Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Parental Status › Parents › Parents of Toddlers (1-3 years),Enabled,Warm_Weather_03-10,Termite,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,[TOP] Awareness_Display_Gopher&Mole,Ad group 1,USD,0.01,0.01, --,Targeting,0,20,0.00%,0,0.05,2.41
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,BedBug_Leads_New,BB_New,USD,0.01,0, --,Observation,0,17,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,New_Rats&Mice_Leads,Ad group 1,USD,0.01,0, --,Observation,0,1,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Ants,USD,0.01,0, --,Observation,39,763,5.11%,1.38,53.66,70.33
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Bed Bugs,USD,0.01,0, --,Observation,554,"9,794",5.66%,3.77,2088.23,213.22
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0, --,Observation,22,328,6.71%,10.32,227.08,692.32
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0, --,Observation,0,9,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Cockroaches,USD,0.01,0, --,Observation,151,"2,888",5.23%,2.83,426.63,147.73
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0, --,Observation,11,380,2.89%,3.90,42.89,112.87
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0, --,Observation,0,3,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Flea and Tick,USD,0.01,0, --,Observation,119,"2,142",5.56%,1.90,226.05,105.53
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Insects,USD,0.01,0, --,Observation,41,"1,053",3.89%,2.66,109.24,103.74
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0, --,Observation,228,"3,550",6.42%,3.51,799.41,225.19
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0, --,Observation,4,21,19.05%,7.65,30.60,1457.14
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0, --,Observation,66,"1,610",4.10%,1.35,89.42,55.54
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0, --,Observation,3,18,16.67%,1.09,3.27,181.67
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Rats & Mice,USD,0.01,0, --,Observation,264,"4,932",5.35%,4.20,1108.18,224.69
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0, --,Observation,3,15,20.00%,13.09,39.27,2618.00
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Res Pest Control,USD,0.01,0, --,Observation,238,"4,773",4.99%,3.37,801.41,167.90
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0, --,Observation,3,99,3.03%,6.78,20.34,205.45
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0, --,Observation,0,4,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0, --,Observation,0,9,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Spiders,USD,0.01,0, --,Observation,26,477,5.45%,2.00,52.11,109.25
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,9,180,5.00%,6.87,61.80,343.33
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0, --,Observation,0,17,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Termites,USD,0.01,0, --,Observation,30,860,3.49%,4.87,145.98,169.74
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0, --,Observation,0,27,0.00%,0,0.00,0.00
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0, --,Observation,19,452,4.20%,2.63,50.01,110.64
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0, --,Observation,7,44,15.91%,5.00,35.00,795.45
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0, --,Observation,15,308,4.87%,11.42,171.27,556.07
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0, --,Observation,5,106,4.72%,11.86,59.29,559.34
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0, --,Observation,2,30,6.67%,1.25,2.50,83.33
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0, --,Observation,2,69,2.90%,15.29,30.57,443.04
-Lifestyles & Hobbies › Pet Lovers,Enabled,BedBug_Leads_New,BB_New,USD,0.01,0, --,Observation,7,43,16.28%,8.45,59.15,1375.58
-Lifestyles & Hobbies › Pet Lovers,Enabled,New_Rats&Mice_Leads,Ad group 1,USD,0.01,0, --,Observation,0,2,0.00%,0,0.00,0.00
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Ants,USD,0.01,0, +0%,Observation,0,3,0.00%,0,0.00,0.00
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Bed Bugs,USD,0.01,0, +0%,Observation,148,"2,973",4.98%,6.31,933.82,314.10
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Cockroaches,USD,0.01,0, +0%,Observation,81,"1,670",4.85%,5.00,405.01,242.52
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0, +0%,Observation,0,4,0.00%,0,0.00,0.00
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Flea and Tick,USD,0.01,0, +0%,Observation,0,7,0.00%,0,0.00,0.00
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Insects,USD,0.01,0, +0%,Observation,0,4,0.00%,0,0.00,0.00
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0, +0%,Observation,138,"1,900",7.26%,4.74,654.02,344.22
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Rats & Mice,USD,0.01,0, +0%,Observation,110,"2,496",4.41%,5.41,594.94,238.36
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Res Pest Control,USD,0.01,0, +0%,Observation,48,"1,452",3.31%,7.87,377.54,260.02
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0, +0%,Observation,0,1,0.00%,0,0.00,0.00
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Spiders,USD,0.01,0, +0%,Observation,0,2,0.00%,0,0.00,0.00
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Termites,USD,0.01,0, +0%,Observation,3,245,1.22%,3.11,9.34,38.12
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0, --,Observation,27,441,6.12%,7.34,198.06,449.12
-Lifestyles & Hobbies › Pet Lovers,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0, --,Observation,74,"1,121",6.60%,11.00,813.94,726.08
-Lifestyles & Hobbies › Pet Lovers,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0, --,Observation,10,225,4.44%,4.07,40.65,180.67
-Lifestyles & Hobbies › Pet Lovers,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0, --,Observation,1,111,0.90%,5.57,5.57,50.18
-Lifestyles & Hobbies › Pet Lovers,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Lifestyles & Hobbies › Pet Lovers,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0, --,Observation,3,114,2.63%,5.74,17.21,150.96
-Home & Garden › Pet Supplies,Enabled,BedBug_Leads_New,BB_New,USD,0.01,0, --,Observation,4,33,12.12%,8.19,32.74,992.12
-Home & Garden › Pet Supplies,Enabled,New_Rats&Mice_Leads,Ad group 1,USD,0.01,0, --,Observation,1,1,100.00%,0.89,0.89,890.00
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Ants,USD,0.01,0, +0%,Observation,1,14,7.14%,11.31,11.31,807.86
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Bed Bugs,USD,0.01,0, +0%,Observation,184,"2,832",6.50%,5.90,1085.80,383.40
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Cockroaches,USD,0.01,0, +0%,Observation,79,"1,722",4.59%,4.42,349.49,202.95
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0, +0%,Observation,1,5,20.00%,7.60,7.60,1520.00
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Flea and Tick,USD,0.01,0, +0%,Observation,2,6,33.33%,3.64,7.28,1213.19
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Insects,USD,0.01,0, +0%,Observation,2,2,100.00%,11.65,23.29,11646.91
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0, +0%,Observation,114,"1,604",7.11%,4.95,564.13,351.70
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0, +0%,Observation,1,1,100.00%,2.10,2.10,2100.00
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Rats & Mice,USD,0.01,0, +0%,Observation,132,"2,521",5.24%,6.12,808.03,320.52
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Res Pest Control,USD,0.01,0, +0%,Observation,50,"1,371",3.65%,8.20,410.16,299.17
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0, +0%,Observation,0,1,0.00%,0,0.00,0.00
-Home & Garden › Pet Supplies,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Pet Supplies,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Pet Supplies,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Spiders,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Termites,USD,0.01,0, +0%,Observation,3,168,1.79%,3.00,9.00,53.57
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Home & Garden › Pet Supplies,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0, +0%,Observation,0,0,0,0,0.00,0
-Real Estate,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Real Estate,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0, --,Observation,6,201,2.99%,5.42,32.50,161.69
-Real Estate,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0, --,Observation,28,549,5.10%,11.31,316.73,576.92
-Real Estate,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0, --,Observation,5,109,4.59%,6.28,31.41,288.17
-Real Estate,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0, --,Observation,2,64,3.13%,15.48,30.95,483.59
-Real Estate,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Real Estate,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0, --,Observation,1,83,1.20%,13.59,13.59,163.73
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Ants,USD,0.01,0, --,Observation,2,24,8.33%,2.19,4.37,182.08
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Bed Bugs,USD,0.01,0, --,Observation,29,390,7.44%,5.07,146.96,376.82
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0, --,Observation,7,49,14.29%,13.00,91.02,1857.55
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0, --,Observation,0,2,0.00%,0,0.00,0.00
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Cockroaches,USD,0.01,0, --,Observation,11,116,9.48%,2.07,22.82,196.72
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0, --,Observation,0,8,0.00%,0,0.00,0.00
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0, --,Observation,0,1,0.00%,0,0.00,0.00
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Flea and Tick,USD,0.01,0, --,Observation,7,106,6.60%,1.30,9.09,85.75
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Insects,USD,0.01,0, --,Observation,1,22,4.55%,2.54,2.54,115.45
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0, --,Observation,15,138,10.87%,2.33,35.02,253.77
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0, --,Observation,0,5,0.00%,0,0.00,0.00
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0, --,Observation,5,60,8.33%,1.23,6.14,102.33
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Rats & Mice,USD,0.01,0, --,Observation,11,218,5.05%,4.02,44.25,202.98
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Res Pest Control,USD,0.01,0, --,Observation,8,178,4.49%,4.83,38.67,217.25
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0, --,Observation,0,6,0.00%,0,0.00,0.00
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Spiders,USD,0.01,0, --,Observation,0,12,0.00%,0,0.00,0.00
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,1,11,9.09%,4.27,4.27,388.18
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Termite Inspection,USD,0.01,0, --,Observation,0,0,0,0,0.00,0
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0, --,Observation,0,1,0.00%,0,0.00,0.00
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Termites,USD,0.01,0, --,Observation,3,41,7.32%,3.93,11.79,287.56
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0, --,Observation,0,2,0.00%,0,0.00,0.00
-Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0, --,Observation,1,18,5.56%,1.19,1.19,66.11
-Homeownership Status › Renters,Enabled,BedBug_Leads_New,BB_New,USD,0.01,0, --,Observation,0,4,0.00%,0,0.00,0.00
+Audience segment,Audience segment state,Campaign,Ad group,Currency code,Ad group default max. CPC,Audience segment max CPC,Audience Segment Bid adj.,Targeting Setting,Clicks,Impr.,CTR,Avg. CPC,Cost,Avg. CPM,Cost per Conversion
+People not in audiences,Removed,[TOP] Awareness_Display_Gopher&Mole,Ad group 1,USD,0.01,0.0, --,Targeting,134.0,111620.0,0.12,1.71,228.58,2.05,
+People not in audiences,Removed,BedBug_Leads_New,BB_New,USD,0.01,0.0, --,Observation,27.0,245.0,11.02,0.87,23.55,96.12,
+People not in audiences,Removed,BPM - Bedbugs,Bed Bugs,USD,0.01,0.0, --,Observation,2964.0,61713.0,4.8,5.02,14867.68,240.92,
+People not in audiences,Removed,BPM - Cockroaches,Cockroaches,USD,0.01,0.0, --,Observation,100.0,10801.0,0.93,4.01,401.11,37.14,
+People not in audiences,Removed,BPM - Commercial,Comm Pest Control,USD,0.01,0.0, --,Observation,52.0,6627.0,0.78,2.73,141.78,21.39,
+People not in audiences,Removed,BPM - Flea & Tick,Flea and Tick,USD,0.01,0.0, --,Observation,189.0,8547.0,2.21,4.6,868.6,101.63,
+People not in audiences,Removed,BPM - Mole & Gopher,Mole and Gopher,USD,0.01,0.0, --,Observation,1567.0,55979.0,2.8,5.17,8106.29,144.81,
+People not in audiences,Removed,BPM - Mosquitos,Mosquito Removal,USD,0.01,0.0, --,Observation,265.0,20196.0,1.31,3.99,1058.37,52.41,
+People not in audiences,Removed,BPM - Rats & Mice,Rats & Mice,USD,0.01,0.0, --,Observation,1123.0,19949.0,5.63,6.11,6864.61,344.11,
+People not in audiences,Removed,BPM - Residential,Res Pest Control,USD,0.01,0.0, --,Observation,1752.0,43811.0,4.0,6.99,12243.8,279.47,
+People not in audiences,Removed,BPM - Termites,Termite Inspection,USD,0.01,0.0, --,Observation,65.0,14604.0,0.45,1.9,123.5,8.46,
+People not in audiences,Removed,BPM - Termites,Termites,USD,0.01,0.0, --,Observation,301.0,17506.0,1.72,6.27,1888.28,107.86,
+People not in audiences,Removed,M&G_Awareness_Top,Ad group 1,USD,0.01,0.0, --,Targeting,16.0,8751.0,0.18,0.84,13.44,1.54,
+People not in audiences,Removed,New_Rats&Mice_Leads,Ad group 1,USD,0.01,0.0, --,Observation,3.0,13.0,23.08,0.82,2.46,189.23,
+People not in audiences,Removed,Priority Pest,Ants,USD,0.01,0.0, --,Observation,215.0,3698.0,5.81,1.24,265.63,71.83,
+People not in audiences,Removed,Priority Pest,Bed Bugs,USD,0.01,0.0, --,Observation,2249.0,38859.0,5.79,2.71,6083.67,156.56,
+People not in audiences,Removed,Priority Pest,Bedbugs - Dyn,USD,0.01,0.0, --,Observation,77.0,1382.0,5.57,11.7,900.57,651.64,
+People not in audiences,Removed,Priority Pest,Cockroach - Dyn,USD,0.01,0.0, --,Observation,0.0,37.0,0.0,0.0,0.0,0.0,
+People not in audiences,Removed,Priority Pest,Cockroaches,USD,0.01,0.0, --,Observation,918.0,15040.0,6.1,2.14,1961.75,130.44,
+People not in audiences,Removed,Priority Pest,Comm Pest Control,USD,0.01,0.0, --,Observation,52.0,1313.0,3.96,3.42,177.99,135.56,
+People not in audiences,Removed,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0.0, --,Observation,1.0,32.0,3.13,1.37,1.37,42.81,
+People not in audiences,Removed,Priority Pest,Flea and Tick,USD,0.01,0.0, --,Observation,722.0,12783.0,5.65,1.64,1185.3,92.72,
+People not in audiences,Removed,Priority Pest,Insects,USD,0.01,0.0, --,Observation,123.0,3745.0,3.28,2.0,246.35,65.78,
+People not in audiences,Removed,Priority Pest,Mole and Gopher,USD,0.01,0.0, --,Observation,1159.0,19640.0,5.9,3.5,4053.5,206.39,
+People not in audiences,Removed,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0.0, --,Observation,3.0,83.0,3.61,8.01,24.03,289.52,
+People not in audiences,Removed,Priority Pest,Mosquito Removal,USD,0.01,0.0, --,Observation,224.0,6917.0,3.24,1.65,369.83,53.47,
+People not in audiences,Removed,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0.0, --,Observation,3.0,38.0,7.89,1.02,3.07,80.79,
+People not in audiences,Removed,Priority Pest,Rats & Mice,USD,0.01,0.0, --,Observation,798.0,20343.0,3.92,4.06,3243.24,159.43,
+People not in audiences,Removed,Priority Pest,Rats and Mice - Dyn,USD,0.01,0.0, --,Observation,4.0,78.0,5.13,16.15,64.6,828.21,
+People not in audiences,Removed,Priority Pest,Res Pest Control,USD,0.01,0.0, --,Observation,760.0,18783.0,4.05,3.41,2592.41,138.02,
+People not in audiences,Removed,Priority Pest,Res Pest Control - Dyn,USD,0.01,0.0, --,Observation,16.0,405.0,3.95,5.88,94.13,232.42,
+People not in audiences,Removed,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0.0, --,Observation,0.0,2.0,0.0,0.0,0.0,0.0,
+People not in audiences,Removed,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0.0, --,Observation,2.0,14.0,14.29,1.46,2.91,207.86,
+People not in audiences,Removed,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0.0, --,Observation,1.0,12.0,8.33,1.41,1.41,117.5,
+People not in audiences,Removed,Priority Pest,Spiders,USD,0.01,0.0, --,Observation,146.0,2462.0,5.93,1.64,240.12,97.53,
+People not in audiences,Removed,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,14.0,714.0,1.96,4.87,68.19,95.5,
+People not in audiences,Removed,Priority Pest,Termite Inspection - Dyn,USD,0.01,0.0, --,Observation,1.0,51.0,1.96,2.03,2.03,39.8,
+People not in audiences,Removed,Priority Pest,Termites,USD,0.01,0.0, --,Observation,109.0,3811.0,2.86,4.36,475.07,124.66,
+People not in audiences,Removed,Priority Pest,Termites - Dyn,USD,0.01,0.0, --,Observation,1.0,81.0,1.23,2.41,2.41,29.75,
+People not in audiences,Removed,Priority Pest,Wasp & Hornet,USD,0.01,0.0, --,Observation,89.0,2227.0,4.0,2.57,228.6,102.65,
+People not in audiences,Removed,Warm_Weather_03-10,Flea & Tick,USD,0.01,0.0, --,Observation,11.0,298.0,3.69,7.05,77.59,260.37,
+People not in audiences,Removed,Warm_Weather_03-10,General Pest,USD,0.01,0.0, --,Observation,36.0,922.0,3.9,12.12,436.15,473.05,
+People not in audiences,Removed,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0.0, --,Observation,12.0,201.0,5.97,6.16,73.97,368.01,
+People not in audiences,Removed,Warm_Weather_03-10,Mosquito,USD,0.01,0.0, --,Observation,1.0,65.0,1.54,2.78,2.78,42.77,
+People not in audiences,Removed,Warm_Weather_03-10,Termite,USD,0.01,0.0, --,Observation,2.0,102.0,1.96,9.38,18.76,183.92,
+[TOP]Awareness_Display_Mole&Gopher,Enabled,[TOP] Awareness_Display_Gopher&Mole,Ad group 1,USD,0.01,0.01, --,Targeting,1.0,3147.0,0.03,5.06,5.06,1.61,
+Shoppers › Bargain Hunters,Enabled,BedBug_Leads_New,BB_New,USD,0.01,0.0, --,Observation,1.0,26.0,3.85,17.06,17.06,656.15,
+BB_Bed Bug Specific Searches,Enabled,BB_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0.0,0.0,0.0,0.0,0.0,0.0,
+BB_DIY Home Improvement Enthusiasts,Enabled,BB_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0.0,0.0,0.0,0.0,0.0,0.0,
+BB_Environmentally Conscious Consumers,Enabled,BB_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0.0,0.0,0.0,0.0,0.0,0.0,
+BB_Families in Urban Areas,Enabled,BB_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0.0,0.0,0.0,0.0,0.0,0.0,
+BB_Frequent Travelers,Enabled,BB_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0.0,0.0,0.0,0.0,0.0,0.0,
+BB_Health-Conscious Individuals,Enabled,BB_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0.0,0.0,0.0,0.0,0.0,0.0,
+BB_Homeowners with Pest Concerns,Enabled,BB_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0.0,0.0,0.0,0.0,0.0,0.0,
+BB_Property Managers and Landlords,Enabled,BB_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Ants,USD,0.01,0.0, +0%,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Bed Bugs,USD,0.01,0.0, +0%,Observation,43.0,792.0,5.43,6.11,262.83,331.85,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Cockroaches,USD,0.01,0.0, +0%,Observation,21.0,439.0,4.78,3.92,82.3,187.47,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0.0, +0%,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Flea and Tick,USD,0.01,0.0, +0%,Observation,1.0,1.0,100.0,5.53,5.53,5530.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Insects,USD,0.01,0.0, +0%,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0.0, +0%,Observation,62.0,764.0,8.12,5.82,360.68,472.1,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Rats & Mice,USD,0.01,0.0, +0%,Observation,47.0,706.0,6.66,5.84,274.53,388.86,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Res Pest Control,USD,0.01,0.0, +0%,Observation,11.0,399.0,2.76,7.41,81.54,204.36,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Spiders,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Termites,USD,0.01,0.0, +0%,Observation,1.0,96.0,1.04,8.06,8.06,83.96,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0.0, --,Observation,8.0,116.0,6.9,9.92,79.39,684.4,
+Home & Garden › Do-It-Yourselfers,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0.0, --,Observation,15.0,350.0,4.29,13.51,202.64,578.97,
+Home & Garden › Do-It-Yourselfers,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0.0, --,Observation,8.0,97.0,8.25,9.99,79.94,824.12,
+Home & Garden › Do-It-Yourselfers,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0.0, --,Observation,2.0,49.0,4.08,7.74,15.47,315.71,
+Home & Garden › Do-It-Yourselfers,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Do-It-Yourselfers,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0.0, --,Observation,0.0,51.0,0.0,0.0,0.0,0.0,
+Home & Garden,Enabled,[TOP] Awareness_Display_Gopher&Mole,Ad group 1,USD,0.01,0.01, --,Targeting,0.0,256.0,0.0,0.0,0.39,1.54,
+Home & Garden,Enabled,BedBug_Leads_New,BB_New,USD,0.01,0.0, --,Observation,6.0,48.0,12.5,5.55,33.32,694.17,
+Home & Garden,Enabled,New_Rats&Mice_Leads,Ad group 1,USD,0.01,0.0, --,Observation,0.0,3.0,0.0,0.0,0.0,0.0,
+Home & Garden,Enabled,Priority Pest,Ants,USD,0.01,0.0, --,Observation,298.0,3913.0,7.62,1.24,369.3,94.38,
+Home & Garden,Enabled,Priority Pest,Bed Bugs,USD,0.01,0.0, --,Observation,1517.0,23377.0,6.49,2.81,4270.34,182.67,
+Home & Garden,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0.0, --,Observation,45.0,669.0,6.73,13.34,600.09,897.0,
+Home & Garden,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0.0, --,Observation,0.0,31.0,0.0,0.0,0.0,0.0,
+Home & Garden,Enabled,Priority Pest,Cockroaches,USD,0.01,0.0, --,Observation,609.0,9076.0,6.71,2.5,1523.71,167.88,
+Home & Garden,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0.0, --,Observation,32.0,884.0,3.62,3.79,121.26,137.17,
+Home & Garden,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0.0, --,Observation,0.0,16.0,0.0,0.0,0.0,0.0,
+Home & Garden,Enabled,Priority Pest,Flea and Tick,USD,0.01,0.0, --,Observation,808.0,12498.0,6.47,1.6,1292.1,103.38,
+Home & Garden,Enabled,Priority Pest,Insects,USD,0.01,0.0, --,Observation,133.0,3030.0,4.39,2.47,328.77,108.51,
+Home & Garden,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0.0, --,Observation,951.0,12850.0,7.4,2.54,2418.32,188.2,
+Home & Garden,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0.0, --,Observation,5.0,51.0,9.8,8.69,43.44,851.76,
+Home & Garden,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0.0, --,Observation,435.0,7805.0,5.57,1.62,704.29,90.24,
+Home & Garden,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0.0, --,Observation,1.0,37.0,2.7,1.11,1.11,30.0,
+Home & Garden,Enabled,Priority Pest,Rats & Mice,USD,0.01,0.0, --,Observation,708.0,13434.0,5.27,3.72,2633.11,196.0,
+Home & Garden,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0.0, --,Observation,5.0,52.0,9.62,10.54,52.68,1013.08,
+Home & Garden,Enabled,Priority Pest,Res Pest Control,USD,0.01,0.0, --,Observation,962.0,15120.0,6.36,2.9,2790.84,184.58,
+Home & Garden,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0.0, --,Observation,8.0,250.0,3.2,4.08,32.63,130.52,
+Home & Garden,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0.0, --,Observation,4.0,17.0,23.53,1.25,4.98,292.94,
+Home & Garden,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0.0, --,Observation,0.0,16.0,0.0,0.0,0.0,0.0,
+Home & Garden,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0.0, --,Observation,4.0,16.0,25.0,1.25,5.01,313.13,
+Home & Garden,Enabled,Priority Pest,Spiders,USD,0.01,0.0, --,Observation,119.0,2342.0,5.08,1.52,180.96,77.27,
+Home & Garden,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,10.0,420.0,2.38,9.62,96.2,229.05,
+Home & Garden,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0.0, --,Observation,0.0,38.0,0.0,0.0,0.0,0.0,
+Home & Garden,Enabled,Priority Pest,Termites,USD,0.01,0.0, --,Observation,85.0,2441.0,3.48,4.75,403.35,165.24,
+Home & Garden,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0.0, --,Observation,2.0,72.0,2.78,7.76,15.52,215.56,
+Home & Garden,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0.0, --,Observation,116.0,1954.0,5.94,2.03,235.27,120.4,
+Home & Garden,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0.0, --,Observation,14.0,225.0,6.22,8.34,116.69,518.62,
+Home & Garden,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0.0, --,Observation,31.0,698.0,4.44,10.9,337.94,484.15,
+Home & Garden,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0.0, --,Observation,11.0,167.0,6.59,7.09,77.96,466.83,
+Home & Garden,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0.0, --,Observation,6.0,73.0,8.22,5.34,32.03,438.77,
+Home & Garden,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0.0, --,Observation,3.0,91.0,3.3,6.24,18.71,205.6,
+Home & Garden › Home & Garden Services,Enabled,New_Rats&Mice_Leads,Ad group 1,USD,0.01,0.0, --,Observation,0.0,6.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Ants,USD,0.01,0.0, --,Observation,111.0,2019.0,5.5,1.21,133.8,66.27,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Bed Bugs,USD,0.01,0.0, --,Observation,941.0,16147.0,5.83,3.33,3130.75,193.89,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0.0, --,Observation,38.0,593.0,6.41,15.03,571.06,963.0,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0.0, --,Observation,0.0,14.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Cockroaches,USD,0.01,0.0, --,Observation,401.0,6338.0,6.33,2.4,964.02,152.1,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0.0, --,Observation,21.0,700.0,3.0,3.53,74.03,105.76,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0.0, --,Observation,0.0,19.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Flea and Tick,USD,0.01,0.0, --,Observation,323.0,6137.0,5.26,1.62,523.1,85.24,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Insects,USD,0.01,0.0, --,Observation,94.0,2152.0,4.37,2.49,233.68,108.59,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0.0, --,Observation,529.0,8479.0,6.24,3.13,1656.48,195.36,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0.0, --,Observation,1.0,30.0,3.33,6.44,6.44,214.67,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0.0, --,Observation,216.0,4263.0,5.07,1.55,333.96,78.34,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0.0, --,Observation,0.0,20.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Rats & Mice,USD,0.01,0.0, --,Observation,460.0,9616.0,4.78,4.26,1958.25,203.64,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0.0, --,Observation,1.0,33.0,3.03,3.47,3.47,105.15,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Res Pest Control,USD,0.01,0.0, --,Observation,540.0,10279.0,5.25,3.32,1791.86,174.32,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0.0, --,Observation,6.0,210.0,2.86,5.1,30.58,145.62,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0.0, --,Observation,1.0,6.0,16.67,1.48,1.48,246.67,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0.0, --,Observation,3.0,9.0,33.33,1.44,4.32,480.0,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0.0, --,Observation,1.0,8.0,12.5,1.13,1.13,141.25,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Spiders,USD,0.01,0.0, --,Observation,68.0,1307.0,5.2,1.76,119.89,91.73,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,15.0,392.0,3.83,7.73,116.02,295.97,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0.0, --,Observation,0.0,24.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Termites,USD,0.01,0.0, --,Observation,37.0,1838.0,2.01,3.36,124.22,67.58,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0.0, --,Observation,1.0,49.0,2.04,4.53,4.53,92.45,
+Home & Garden › Home & Garden Services,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0.0, --,Observation,44.0,1136.0,3.87,2.62,115.33,101.52,
+Home & Garden › Home & Garden Services,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0.0, --,Observation,17.0,186.0,9.14,8.47,143.94,773.87,
+Home & Garden › Home & Garden Services,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0.0, --,Observation,38.0,659.0,5.77,14.2,539.44,818.57,
+Home & Garden › Home & Garden Services,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0.0, --,Observation,8.0,204.0,3.92,7.0,56.01,274.56,
+Home & Garden › Home & Garden Services,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0.0, --,Observation,0.0,84.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0.0, --,Observation,4.0,121.0,3.31,15.72,62.87,519.59,
+Home & Garden › Home Improvement,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home Improvement,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0.0, --,Observation,4.0,98.0,4.08,6.87,27.46,280.2,
+Home & Garden › Home Improvement,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0.0, --,Observation,15.0,371.0,4.04,12.62,189.3,510.24,
+Home & Garden › Home Improvement,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0.0, --,Observation,8.0,128.0,6.25,3.63,29.01,226.64,
+Home & Garden › Home Improvement,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0.0, --,Observation,2.0,52.0,3.85,12.85,25.69,494.04,
+Home & Garden › Home Improvement,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home Improvement,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0.0, --,Observation,4.0,63.0,6.35,8.21,32.83,521.11,
+Homeownership Status › Homeowners,Enabled,[TOP] Awareness_Display_Gopher&Mole,Ad group 1,USD,0.01,0.01, --,Targeting,0.0,82.0,0.0,0.0,0.22,2.68,
+Homeownership Status › Homeowners,Enabled,BedBug_Leads_New,BB_New,USD,0.01,0.0, --,Observation,0.0,6.0,0.0,0.0,0.0,0.0,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Ants,USD,0.01,0.0, --,Observation,87.0,951.0,9.15,1.27,110.44,116.13,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Bed Bugs,USD,0.01,0.0, --,Observation,489.0,5767.0,8.48,2.49,1216.85,211.0,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0.0, --,Observation,18.0,209.0,8.61,10.65,191.63,916.89,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0.0, --,Observation,0.0,9.0,0.0,0.0,0.0,0.0,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Cockroaches,USD,0.01,0.0, --,Observation,131.0,1817.0,7.21,1.81,237.56,130.74,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0.0, --,Observation,7.0,206.0,3.4,3.18,22.28,108.16,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0.0, --,Observation,0.0,6.0,0.0,0.0,0.0,0.0,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Flea and Tick,USD,0.01,0.0, --,Observation,221.0,3241.0,6.82,1.6,354.17,109.28,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Insects,USD,0.01,0.0, --,Observation,35.0,796.0,4.4,2.39,83.63,105.06,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0.0, --,Observation,266.0,3128.0,8.5,2.64,702.59,224.61,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0.0, --,Observation,1.0,15.0,6.67,9.72,9.72,648.0,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0.0, --,Observation,107.0,1925.0,5.56,1.41,150.35,78.1,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0.0, --,Observation,0.0,16.0,0.0,0.0,0.0,0.0,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Rats & Mice,USD,0.01,0.0, --,Observation,170.0,3132.0,5.43,3.82,649.08,207.24,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0.0, --,Observation,0.0,21.0,0.0,0.0,0.0,0.0,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Res Pest Control,USD,0.01,0.0, --,Observation,266.0,3407.0,7.81,2.16,574.36,168.58,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0.0, --,Observation,10.0,80.0,12.5,4.97,49.71,621.38,
+Homeownership Status › Homeowners,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0.0, --,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Homeownership Status › Homeowners,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0.0, --,Observation,0.0,2.0,0.0,0.0,0.0,0.0,
+Homeownership Status › Homeowners,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0.0, --,Observation,0.0,2.0,0.0,0.0,0.0,0.0,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Spiders,USD,0.01,0.0, --,Observation,35.0,583.0,6.0,1.27,44.58,76.47,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,1.0,124.0,0.81,5.76,5.76,46.45,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0.0, --,Observation,1.0,7.0,14.29,10.61,10.61,1515.71,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Termites,USD,0.01,0.0, --,Observation,20.0,657.0,3.04,3.25,64.96,98.87,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0.0, --,Observation,0.0,9.0,0.0,0.0,0.0,0.0,
+Homeownership Status › Homeowners,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0.0, --,Observation,29.0,558.0,5.2,1.52,44.22,79.25,
+Homeownership Status › Homeowners,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Homeownership Status › Homeowners,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0.0, --,Observation,9.0,114.0,7.89,9.5,85.5,750.0,
+Homeownership Status › Homeowners,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0.0, --,Observation,14.0,275.0,5.09,7.68,107.49,390.87,
+Homeownership Status › Homeowners,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0.0, --,Observation,8.0,89.0,8.99,5.06,40.5,455.06,
+Homeownership Status › Homeowners,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0.0, --,Observation,2.0,29.0,6.9,7.47,14.94,515.17,
+Homeownership Status › Homeowners,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Homeownership Status › Homeowners,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0.0, --,Observation,1.0,30.0,3.33,4.27,4.27,142.33,
+Lifestyles & Hobbies › Family-Focused › Homeschooling Parents,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Family-Focused › Homeschooling Parents,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0.0, --,Observation,0.0,12.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Family-Focused › Homeschooling Parents,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0.0, --,Observation,3.0,42.0,7.14,8.37,25.12,598.1,
+Lifestyles & Hobbies › Family-Focused › Homeschooling Parents,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0.0, --,Observation,1.0,4.0,25.0,2.07,2.07,517.5,
+Lifestyles & Hobbies › Family-Focused › Homeschooling Parents,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0.0, --,Observation,0.0,7.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Family-Focused › Homeschooling Parents,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Family-Focused › Homeschooling Parents,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0.0, --,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Ants,USD,0.01,0.0, --,Observation,12.0,197.0,6.09,1.42,17.06,86.6,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Bed Bugs,USD,0.01,0.0, --,Observation,81.0,1279.0,6.33,2.89,234.0,182.96,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0.0, --,Observation,1.0,43.0,2.33,40.62,40.62,944.65,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0.0, --,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Cockroaches,USD,0.01,0.0, --,Observation,28.0,470.0,5.96,2.72,76.16,162.04,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0.0, --,Observation,4.0,56.0,7.14,2.03,8.13,145.18,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Flea and Tick,USD,0.01,0.0, --,Observation,43.0,661.0,6.51,1.52,65.36,98.88,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Insects,USD,0.01,0.0, --,Observation,9.0,200.0,4.5,2.81,25.27,126.35,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0.0, --,Observation,50.0,829.0,6.03,1.98,99.18,119.64,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0.0, --,Observation,0.0,5.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0.0, --,Observation,18.0,426.0,4.23,1.52,27.36,64.23,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0.0, --,Observation,1.0,3.0,33.33,0.28,0.28,93.33,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Rats & Mice,USD,0.01,0.0, --,Observation,33.0,735.0,4.49,3.37,111.36,151.51,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0.0, --,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Res Pest Control,USD,0.01,0.0, --,Observation,23.0,829.0,2.77,3.37,77.59,93.59,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0.0, --,Observation,0.0,7.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Spiders,USD,0.01,0.0, --,Observation,11.0,138.0,7.97,1.91,20.96,151.88,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,18.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0.0, --,Observation,0.0,4.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Termites,USD,0.01,0.0, --,Observation,1.0,74.0,1.35,1.31,1.31,17.7,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0.0, --,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0.0, --,Observation,8.0,99.0,8.08,2.31,18.44,186.26,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0.0, --,Observation,1.0,36.0,2.78,1.75,1.75,48.61,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0.0, --,Observation,2.0,97.0,2.06,8.48,16.95,174.74,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0.0, --,Observation,0.0,44.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0.0, --,Observation,0.0,22.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Lawn & Garden Maintenance,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0.0, --,Observation,1.0,26.0,3.85,2.32,2.32,89.23,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Ants,USD,0.01,0.0, --,Observation,13.0,199.0,6.53,1.13,14.72,73.97,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Bed Bugs,USD,0.01,0.0, --,Observation,50.0,770.0,6.49,3.15,157.4,204.42,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0.0, --,Observation,0.0,8.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0.0, --,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Cockroaches,USD,0.01,0.0, --,Observation,17.0,307.0,5.54,2.27,38.55,125.57,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0.0, --,Observation,3.0,42.0,7.14,2.53,7.58,180.48,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0.0, --,Observation,0.0,3.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Flea and Tick,USD,0.01,0.0, --,Observation,26.0,555.0,4.68,1.38,35.86,64.61,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Insects,USD,0.01,0.0, --,Observation,10.0,185.0,5.41,1.37,13.73,74.22,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0.0, --,Observation,62.0,883.0,7.02,2.46,152.68,172.91,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0.0, --,Observation,1.0,5.0,20.0,2.78,2.78,556.0,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0.0, --,Observation,30.0,591.0,5.08,1.9,56.91,96.29,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0.0, --,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Rats & Mice,USD,0.01,0.0, --,Observation,27.0,516.0,5.23,1.72,46.35,89.83,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0.0, --,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Res Pest Control,USD,0.01,0.0, --,Observation,46.0,813.0,5.66,2.65,121.95,150.0,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0.0, --,Observation,1.0,13.0,7.69,7.07,7.07,544.13,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0.0, --,Observation,0.0,4.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0.0, --,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Spiders,USD,0.01,0.0, --,Observation,5.0,103.0,4.85,2.2,10.98,106.6,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,23.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0.0, --,Observation,1.0,3.0,33.33,1.22,1.22,406.67,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Termites,USD,0.01,0.0, --,Observation,4.0,114.0,3.51,3.12,12.48,109.47,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0.0, --,Observation,0.0,4.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items › Lawn Care & Gardening Supplies,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0.0, --,Observation,5.0,117.0,4.27,1.46,7.31,62.48,
+M&G_Garden and Lawn Care,Removed,M&G_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0.0,1397.0,0.0,0.0,1.31,0.94,
+M&G_Gardening and Home Improvement Content Readers,Enabled,M&G_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,29.0,19549.0,0.15,0.9,26.2,1.34,
+M&G_Home & Garden Enthusiasts,Enabled,M&G_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,8.0,5566.0,0.14,1.55,12.36,2.22,
+M&G_Mole & Gopher Problem Searches,Enabled,M&G_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,50.0,51700.0,0.1,1.16,58.04,1.12,
+M&G_Outdoor and Property Maintenance,Enabled,M&G_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,7.0,6106.0,0.11,0.87,6.1,1.0,
+M&G_Pest Control Seekers,Removed,M&G_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,0.0,576.0,0.0,0.0,0.53,0.92,
+M&G_Rural and Suburban Homeowners,Enabled,M&G_Awareness_Top,Ad group 1,USD,0.01,0.01, --,Targeting,6.0,11954.0,0.05,1.67,10.03,0.84,
+Lifestyles & Hobbies › Outdoor Enthusiasts,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Outdoor Enthusiasts,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0.0, --,Observation,9.0,163.0,5.52,9.25,83.24,510.67,
+Lifestyles & Hobbies › Outdoor Enthusiasts,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0.0, --,Observation,35.0,461.0,7.59,9.75,341.26,740.26,
+Lifestyles & Hobbies › Outdoor Enthusiasts,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0.0, --,Observation,7.0,121.0,5.79,7.06,49.43,408.51,
+Lifestyles & Hobbies › Outdoor Enthusiasts,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0.0, --,Observation,3.0,56.0,5.36,19.02,57.05,1018.75,
+Lifestyles & Hobbies › Outdoor Enthusiasts,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Outdoor Enthusiasts,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0.0, --,Observation,1.0,74.0,1.35,5.16,5.16,69.73,
+Home & Garden › Outdoor Items,Removed,Priority Pest,Ants,USD,0.01,0.0, --,Observation,25.0,431.0,5.8,1.31,32.71,75.89,
+Home & Garden › Outdoor Items,Removed,Priority Pest,Bed Bugs,USD,0.01,0.0, --,Observation,72.0,1079.0,6.67,1.29,92.72,85.93,
+Home & Garden › Outdoor Items,Removed,Priority Pest,Cockroaches,USD,0.01,0.0, --,Observation,32.0,454.0,7.05,1.25,40.1,88.33,
+Home & Garden › Outdoor Items,Removed,Priority Pest,Comm Pest Control,USD,0.01,0.0, --,Observation,2.0,75.0,2.67,1.41,2.82,37.6,
+Home & Garden › Outdoor Items,Removed,Priority Pest,Flea and Tick,USD,0.01,0.0, --,Observation,66.0,1117.0,5.91,1.31,86.43,77.38,
+Home & Garden › Outdoor Items,Removed,Priority Pest,Insects,USD,0.01,0.0, --,Observation,16.0,276.0,5.8,1.2,19.22,69.64,
+Home & Garden › Outdoor Items,Removed,Priority Pest,Mole and Gopher,USD,0.01,0.0, --,Observation,71.0,959.0,7.4,1.6,113.7,118.56,
+Home & Garden › Outdoor Items,Removed,Priority Pest,Mosquito Removal,USD,0.01,0.0, --,Observation,43.0,1054.0,4.08,1.29,55.64,52.79,
+Home & Garden › Outdoor Items,Removed,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0.0, --,Observation,0.0,2.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items,Removed,Priority Pest,Rats & Mice,USD,0.01,0.0, --,Observation,45.0,654.0,6.88,1.55,69.68,106.54,
+Home & Garden › Outdoor Items,Removed,Priority Pest,Res Pest Control,USD,0.01,0.0, --,Observation,63.0,953.0,6.61,1.18,74.39,78.06,
+Home & Garden › Outdoor Items,Removed,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items,Removed,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0.0, --,Observation,0.0,3.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items,Removed,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0.0, --,Observation,0.0,3.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items,Removed,Priority Pest,Spiders,USD,0.01,0.0, --,Observation,14.0,186.0,7.53,1.23,17.24,92.69,
+Home & Garden › Outdoor Items,Removed,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,6.0,0.0,0.0,0.0,0.0,
+Home & Garden › Outdoor Items,Removed,Priority Pest,Termites,USD,0.01,0.0, --,Observation,4.0,87.0,4.6,2.82,11.26,129.43,
+Home & Garden › Outdoor Items,Removed,Priority Pest,Wasp & Hornet,USD,0.01,0.0, --,Observation,2.0,131.0,1.53,1.39,2.77,21.15,
+Parental Status › Parents › Parents of Grade-Schoolers (6-12 years),Enabled,Warm_Weather_03-10,Ant,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Grade-Schoolers (6-12 years),Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0.0, --,Observation,0.0,8.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Grade-Schoolers (6-12 years),Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0.0, --,Observation,0.0,6.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Grade-Schoolers (6-12 years),Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0.0, --,Observation,0.0,2.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Grade-Schoolers (6-12 years),Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0.0, --,Observation,0.0,4.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Grade-Schoolers (6-12 years),Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Grade-Schoolers (6-12 years),Enabled,Warm_Weather_03-10,Termite,USD,0.01,0.0, --,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Infants (0-1 years),Enabled,Warm_Weather_03-10,Ant,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Infants (0-1 years),Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Infants (0-1 years),Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Infants (0-1 years),Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0.0, --,Observation,0.0,2.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Infants (0-1 years),Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Infants (0-1 years),Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Infants (0-1 years),Enabled,Warm_Weather_03-10,Termite,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Preschoolers (4-5 years),Enabled,Warm_Weather_03-10,Ant,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Preschoolers (4-5 years),Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Preschoolers (4-5 years),Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Preschoolers (4-5 years),Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Preschoolers (4-5 years),Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Preschoolers (4-5 years),Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Preschoolers (4-5 years),Enabled,Warm_Weather_03-10,Termite,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Toddlers (1-3 years),Enabled,Warm_Weather_03-10,Ant,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Toddlers (1-3 years),Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Toddlers (1-3 years),Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0.0, --,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Toddlers (1-3 years),Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0.0, --,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Toddlers (1-3 years),Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Toddlers (1-3 years),Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Parental Status › Parents › Parents of Toddlers (1-3 years),Enabled,Warm_Weather_03-10,Termite,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,[TOP] Awareness_Display_Gopher&Mole,Ad group 1,USD,0.01,0.01, --,Targeting,0.0,20.0,0.0,0.0,0.05,2.41,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,BedBug_Leads_New,BB_New,USD,0.01,0.0, --,Observation,0.0,17.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,New_Rats&Mice_Leads,Ad group 1,USD,0.01,0.0, --,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Ants,USD,0.01,0.0, --,Observation,39.0,763.0,5.11,1.38,53.66,70.33,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Bed Bugs,USD,0.01,0.0, --,Observation,554.0,9794.0,5.66,3.77,2088.23,213.22,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0.0, --,Observation,22.0,328.0,6.71,10.32,227.08,692.32,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0.0, --,Observation,0.0,9.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Cockroaches,USD,0.01,0.0, --,Observation,151.0,2888.0,5.23,2.83,426.63,147.73,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0.0, --,Observation,11.0,380.0,2.89,3.9,42.89,112.87,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0.0, --,Observation,0.0,3.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Flea and Tick,USD,0.01,0.0, --,Observation,119.0,2142.0,5.56,1.9,226.05,105.53,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Insects,USD,0.01,0.0, --,Observation,41.0,1053.0,3.89,2.66,109.24,103.74,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0.0, --,Observation,228.0,3550.0,6.42,3.51,799.41,225.19,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0.0, --,Observation,4.0,21.0,19.05,7.65,30.6,1457.14,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0.0, --,Observation,66.0,1610.0,4.1,1.35,89.42,55.54,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0.0, --,Observation,3.0,18.0,16.67,1.09,3.27,181.67,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Rats & Mice,USD,0.01,0.0, --,Observation,264.0,4932.0,5.35,4.2,1108.18,224.69,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0.0, --,Observation,3.0,15.0,20.0,13.09,39.27,2618.0,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Res Pest Control,USD,0.01,0.0, --,Observation,238.0,4773.0,4.99,3.37,801.41,167.9,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0.0, --,Observation,3.0,99.0,3.03,6.78,20.34,205.45,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0.0, --,Observation,0.0,4.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0.0, --,Observation,0.0,9.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Spiders,USD,0.01,0.0, --,Observation,26.0,477.0,5.45,2.0,52.11,109.25,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,9.0,180.0,5.0,6.87,61.8,343.33,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0.0, --,Observation,0.0,17.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Termites,USD,0.01,0.0, --,Observation,30.0,860.0,3.49,4.87,145.98,169.74,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0.0, --,Observation,0.0,27.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0.0, --,Observation,19.0,452.0,4.2,2.63,50.01,110.64,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0.0, --,Observation,7.0,44.0,15.91,5.0,35.0,795.45,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0.0, --,Observation,15.0,308.0,4.87,11.42,171.27,556.07,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0.0, --,Observation,5.0,106.0,4.72,11.86,59.29,559.34,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0.0, --,Observation,2.0,30.0,6.67,1.25,2.5,83.33,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Home & Garden Services › Pest Control Services,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0.0, --,Observation,2.0,69.0,2.9,15.29,30.57,443.04,
+Lifestyles & Hobbies › Pet Lovers,Enabled,BedBug_Leads_New,BB_New,USD,0.01,0.0, --,Observation,7.0,43.0,16.28,8.45,59.15,1375.58,
+Lifestyles & Hobbies › Pet Lovers,Enabled,New_Rats&Mice_Leads,Ad group 1,USD,0.01,0.0, --,Observation,0.0,2.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Ants,USD,0.01,0.0, +0%,Observation,0.0,3.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Bed Bugs,USD,0.01,0.0, +0%,Observation,148.0,2973.0,4.98,6.31,933.82,314.1,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Cockroaches,USD,0.01,0.0, +0%,Observation,81.0,1670.0,4.85,5.0,405.01,242.52,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0.0, +0%,Observation,0.0,4.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Flea and Tick,USD,0.01,0.0, +0%,Observation,0.0,7.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Insects,USD,0.01,0.0, +0%,Observation,0.0,4.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0.0, +0%,Observation,138.0,1900.0,7.26,4.74,654.02,344.22,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Rats & Mice,USD,0.01,0.0, +0%,Observation,110.0,2496.0,4.41,5.41,594.94,238.36,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Res Pest Control,USD,0.01,0.0, +0%,Observation,48.0,1452.0,3.31,7.87,377.54,260.02,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0.0, +0%,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Spiders,USD,0.01,0.0, +0%,Observation,0.0,2.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Termites,USD,0.01,0.0, +0%,Observation,3.0,245.0,1.22,3.11,9.34,38.12,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0.0, --,Observation,27.0,441.0,6.12,7.34,198.06,449.12,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0.0, --,Observation,74.0,1121.0,6.6,11.0,813.94,726.08,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0.0, --,Observation,10.0,225.0,4.44,4.07,40.65,180.67,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0.0, --,Observation,1.0,111.0,0.9,5.57,5.57,50.18,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Lifestyles & Hobbies › Pet Lovers,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0.0, --,Observation,3.0,114.0,2.63,5.74,17.21,150.96,
+Home & Garden › Pet Supplies,Enabled,BedBug_Leads_New,BB_New,USD,0.01,0.0, --,Observation,4.0,33.0,12.12,8.19,32.74,992.12,
+Home & Garden › Pet Supplies,Enabled,New_Rats&Mice_Leads,Ad group 1,USD,0.01,0.0, --,Observation,1.0,1.0,100.0,0.89,0.89,890.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Ants,USD,0.01,0.0, +0%,Observation,1.0,14.0,7.14,11.31,11.31,807.86,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Bed Bugs,USD,0.01,0.0, +0%,Observation,184.0,2832.0,6.5,5.9,1085.8,383.4,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Cockroaches,USD,0.01,0.0, +0%,Observation,79.0,1722.0,4.59,4.42,349.49,202.95,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0.0, +0%,Observation,1.0,5.0,20.0,7.6,7.6,1520.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Flea and Tick,USD,0.01,0.0, +0%,Observation,2.0,6.0,33.33,3.64,7.28,1213.19,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Insects,USD,0.01,0.0, +0%,Observation,2.0,2.0,100.0,11.65,23.29,11646.91,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0.0, +0%,Observation,114.0,1604.0,7.11,4.95,564.13,351.7,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0.0, +0%,Observation,1.0,1.0,100.0,2.1,2.1,2100.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Rats & Mice,USD,0.01,0.0, +0%,Observation,132.0,2521.0,5.24,6.12,808.03,320.52,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Res Pest Control,USD,0.01,0.0, +0%,Observation,50.0,1371.0,3.65,8.2,410.16,299.17,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0.0, +0%,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Spiders,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Termites,USD,0.01,0.0, +0%,Observation,3.0,168.0,1.79,3.0,9.0,53.57,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Home & Garden › Pet Supplies,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0.0, +0%,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Real Estate,Enabled,Warm_Weather_03-10,Ant,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Real Estate,Enabled,Warm_Weather_03-10,Flea & Tick,USD,0.01,0.0, --,Observation,6.0,201.0,2.99,5.42,32.5,161.69,
+Real Estate,Enabled,Warm_Weather_03-10,General Pest,USD,0.01,0.0, --,Observation,28.0,549.0,5.1,11.31,316.73,576.92,
+Real Estate,Enabled,Warm_Weather_03-10,Mole & Gopher,USD,0.01,0.0, --,Observation,5.0,109.0,4.59,6.28,31.41,288.17,
+Real Estate,Enabled,Warm_Weather_03-10,Mosquito,USD,0.01,0.0, --,Observation,2.0,64.0,3.13,15.48,30.95,483.59,
+Real Estate,Enabled,Warm_Weather_03-10,Rodent,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Real Estate,Enabled,Warm_Weather_03-10,Termite,USD,0.01,0.0, --,Observation,1.0,83.0,1.2,13.59,13.59,163.73,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Ants,USD,0.01,0.0, --,Observation,2.0,24.0,8.33,2.19,4.37,182.08,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Bed Bugs,USD,0.01,0.0, --,Observation,29.0,390.0,7.44,5.07,146.96,376.82,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Bedbugs - Dyn,USD,0.01,0.0, --,Observation,7.0,49.0,14.29,13.0,91.02,1857.55,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Cockroach - Dyn,USD,0.01,0.0, --,Observation,0.0,2.0,0.0,0.0,0.0,0.0,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Cockroaches,USD,0.01,0.0, --,Observation,11.0,116.0,9.48,2.07,22.82,196.72,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Comm Pest Control,USD,0.01,0.0, --,Observation,0.0,8.0,0.0,0.0,0.0,0.0,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Comm Pest Control - Dyn,USD,0.01,0.0, --,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Flea and Tick,USD,0.01,0.0, --,Observation,7.0,106.0,6.6,1.3,9.09,85.75,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Insects,USD,0.01,0.0, --,Observation,1.0,22.0,4.55,2.54,2.54,115.45,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Mole and Gopher,USD,0.01,0.0, --,Observation,15.0,138.0,10.87,2.33,35.02,253.77,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Mole and Gopher - Dyn,USD,0.01,0.0, --,Observation,0.0,5.0,0.0,0.0,0.0,0.0,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Mosquito Removal,USD,0.01,0.0, --,Observation,5.0,60.0,8.33,1.23,6.14,102.33,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Priority Pest - dynamic ad group,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Rats & Mice,USD,0.01,0.0, --,Observation,11.0,218.0,5.05,4.02,44.25,202.98,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Rats and Mice - Dyn,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Res Pest Control,USD,0.01,0.0, --,Observation,8.0,178.0,4.49,4.83,38.67,217.25,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Res Pest Control - Dyn,USD,0.01,0.0, --,Observation,0.0,6.0,0.0,0.0,0.0,0.0,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,SKAG | gopher poison | BROAD,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,SKAG | how to remove moles | BROAD,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,SKAG | tick removal | BROAD,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Spiders,USD,0.01,0.0, --,Observation,0.0,12.0,0.0,0.0,0.0,0.0,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,1.0,11.0,9.09,4.27,4.27,388.18,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Termite Inspection,USD,0.01,0.0, --,Observation,0.0,0.0,0.0,0.0,0.0,0.0,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Termite Inspection - Dyn,USD,0.01,0.0, --,Observation,0.0,1.0,0.0,0.0,0.0,0.0,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Termites,USD,0.01,0.0, --,Observation,3.0,41.0,7.32,3.93,11.79,287.56,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Termites - Dyn,USD,0.01,0.0, --,Observation,0.0,2.0,0.0,0.0,0.0,0.0,
+Employment › Industry › Real Estate Industry,Enabled,Priority Pest,Wasp & Hornet,USD,0.01,0.0, --,Observation,1.0,18.0,5.56,1.19,1.19,66.11,
+Homeownership Status › Renters,Enabled,BedBug_Leads_New,BB_New,USD,0.01,0.0, --,Observation,0.0,4.0,0.0,0.0,0.0,0.0,
