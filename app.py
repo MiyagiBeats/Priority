@@ -11,7 +11,7 @@ def load_csv(file_name):
     try:
         data_path = os.path.join(os.path.dirname(__file__), 'data', file_name)
         logging.debug(f"Loading CSV file from: {data_path}")
-        df = pd.read_csv(data_path)
+        df = pd.read_csv(data_path, low_memory=False)  # Set low_memory=False to address DtypeWarning
         return df
     except pd.errors.ParserError as e:
         logging.error(f"Error parsing CSV file: {e}")
