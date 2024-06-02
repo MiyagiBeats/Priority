@@ -32,7 +32,7 @@ def analyze_campaign_performance(df):
                     "action": "improve ad relevance or keywords"
                 })
         except (ValueError, KeyError) as e:
-            logging.error(f"Error processing row: {e}")
+            logging.error(f"Error processing row in analyze_campaign_performance: {e}")
     return recommendations
 
 def analyze_keyword_performance(df):
@@ -46,7 +46,7 @@ def analyze_keyword_performance(df):
                     "action": "reduce CPC or remove"
                 })
         except (ValueError, KeyError) as e:
-            logging.error(f"Error processing row: {e}")
+            logging.error(f"Error processing row in analyze_keyword_performance: {e}")
     return recommendations
 
 def analyze_search_terms(df):
@@ -60,7 +60,7 @@ def analyze_search_terms(df):
                     "action": "add as negative keyword"
                 })
         except (ValueError, KeyError) as e:
-            logging.error(f"Error processing row: {e}")
+            logging.error(f"Error processing row in analyze_search_terms: {e}")
     return recommendations
 
 def analyze_ads_performance(df):
@@ -74,7 +74,7 @@ def analyze_ads_performance(df):
                     "action": "improve ad copy"
                 })
         except (ValueError, KeyError) as e:
-            logging.error(f"Error processing row: {e}")
+            logging.error(f"Error processing row in analyze_ads_performance: {e}")
     return recommendations
 
 def analyze_audience_performance(df):
@@ -88,7 +88,7 @@ def analyze_audience_performance(df):
                     "action": "review audience targeting or exclude"
                 })
         except (ValueError, KeyError) as e:
-            logging.error(f"Error processing row: {e}")
+            logging.error(f"Error processing row in analyze_audience_performance: {e}")
     return recommendations
 
 @app.route('/analyze/campaign', methods=['GET'])
@@ -118,3 +118,18 @@ def analyze_search_terms():
 @app.route('/analyze/ads', methods=['GET'])
 def analyze_ads():
     df = load_csv('Ads_Performance.csv')
+    if isinstance(df, str):
+        return jsonify({"error": df}), 500
+    recommendations = analyze_ads_performance(df)
+    return jsonify({"data": df.head().to_dict(), "recommendations": recommendations})
+
+@app.route('/analyze/audience', methods=['GET'])
+def analyze_audience():
+    df = load_csv('Audiences.csv')
+    if isinstance(df, str):
+        return jsonify({"error": df}), 500
+    recommendations = analyze_audience_performance(df)
+    return jsonify({"data": df.head().to_dict(), "recommendations": recommendations})
+
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
