@@ -31,7 +31,7 @@ def analyze_campaign_performance(df):
                     "campaign": row['Campaign'],
                     "action": "improve ad relevance or keywords"
                 })
-        except ValueError as e:
+        except (ValueError, KeyError) as e:
             logging.error(f"Error processing row: {e}")
     return recommendations
 
@@ -45,7 +45,7 @@ def analyze_keyword_performance(df):
                     "keyword": row['Keyword'],
                     "action": "reduce CPC or remove"
                 })
-        except ValueError as e:
+        except (ValueError, KeyError) as e:
             logging.error(f"Error processing row: {e}")
     return recommendations
 
@@ -59,7 +59,7 @@ def analyze_search_terms(df):
                     "search_term": row['Search Term'],
                     "action": "add as negative keyword"
                 })
-        except ValueError as e:
+        except (ValueError, KeyError) as e:
             logging.error(f"Error processing row: {e}")
     return recommendations
 
@@ -73,7 +73,7 @@ def analyze_ads_performance(df):
                     "ad": row['Ad'],
                     "action": "improve ad copy"
                 })
-        except ValueError as e:
+        except (ValueError, KeyError) as e:
             logging.error(f"Error processing row: {e}")
     return recommendations
 
@@ -87,7 +87,7 @@ def analyze_audience_performance(df):
                     "audience": row['Audience'],
                     "action": "review audience targeting or exclude"
                 })
-        except ValueError as e:
+        except (ValueError, KeyError) as e:
             logging.error(f"Error processing row: {e}")
     return recommendations
 
@@ -118,18 +118,3 @@ def analyze_search_terms():
 @app.route('/analyze/ads', methods=['GET'])
 def analyze_ads():
     df = load_csv('Ads_Performance.csv')
-    if isinstance(df, str):
-        return jsonify({"error": df}), 500
-    recommendations = analyze_ads_performance(df)
-    return jsonify({"data": df.head().to_dict(), "recommendations": recommendations})
-
-@app.route('/analyze/audience', methods=['GET'])
-def analyze_audience():
-    df = load_csv('Audiences.csv')
-    if isinstance(df, str):
-        return jsonify({"error": df}), 500
-    recommendations = analyze_audience_performance(df)
-    return jsonify({"data": df.head().to_dict(), "recommendations": recommendations})
-
-if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
