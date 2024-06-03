@@ -183,7 +183,7 @@ def generate_report():
                 {"role": "user", "content": f"Generate a detailed report on the following campaign performance: {summary}"}
             ]
         )
-        report = response.choices[0].message['content']
+        report = response['choices'][0]['message']['content']
 
         return jsonify({"report": report})
     except Exception as e:
