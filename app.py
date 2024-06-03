@@ -5,6 +5,7 @@ import logging
 from google.ads.googleads.client import GoogleAdsClient
 from google.ads.googleads.errors import GoogleAdsException
 from pytrends.request import TrendReq
+import time
 
 app = Flask(__name__)
 
@@ -147,7 +148,20 @@ def analyze_trending_keywords():
             return jsonify({"error": "No keywords provided"}), 400
 
         pytrends.build_payload(kw_list, cat=0, timeframe='now 7-d', geo='', gprop='')
-        trending_data = pytrends.interest_over_time()
+        
+        # Implement retry logic
+        attempts = 0
+        success = False
+        while attempts < 3 and not success:
+            try:
+                trending_data = pytrends.interest_over_time()
+                success = True
+            except Exception as e:
+                attempts += 1
+                time.sleep(2)  # wait for 2 seconds before retrying
+                if attempts >= 3:
+                    raise e
+
         if trending_data.empty:
             return jsonify({"error": "No trending data found"}), 404
 
