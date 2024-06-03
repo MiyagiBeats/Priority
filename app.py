@@ -5,12 +5,15 @@ import logging
 from google.ads.googleads.client import GoogleAdsClient
 from google.ads.googleads.errors import GoogleAdsException
 from pytrends.request import TrendReq
+import openai
 import time
 
 app = Flask(__name__)
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
+
+openai.api_key = 'YOUR_OPENAI_API_KEY'
 
 def load_csv(file_name):
     try:
@@ -168,6 +171,38 @@ def analyze_trending_keywords():
         return jsonify(trending_data.reset_index().to_dict(orient='records'))
     except Exception as e:
         logger.error(f"Error fetching trending keywords: {e}")
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/generate_report', methods=['POST'])
+def generate_report():
+    campaign_name = request.json.get('campaign_name')
+    if not campaign_name:
+        return jsonify({"error": "No campaign name provided"}), 400
+
+    df = load_csv('Campaign_Performance.csv')
+    if isinstance(df, str):
+        return jsonify({"error": df}), 500
+
+    campaign_df = df[df['Campaign'] == campaign_name]
+    if campaign_df.empty:
+        return jsonify({"error": "No data found for the specified campaign"}), 404
+
+    report = campaign_df.to_dict(orient='records')
+    recommendations = analyze_campaign_performance(campaign_df)
+
+    # Use OpenAI API to generate detailed analysis
+    openai_prompt = f"Generate a detailed report on the following campaign data: {report} and provide recommendations: {recommendations}"
+
+    try:
+        response = openai.Completion.create(
+            engine="text-davinci-003",
+            prompt=openai_prompt,
+            max_tokens=1500
+        )
+        detailed_report = response.choices[0].text.strip()
+        return jsonify({"report": detailed_report})
+    except Exception as e:
+        logger.error(f"Error generating report with OpenAI: {e}")
         return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
