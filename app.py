@@ -2,8 +2,8 @@ import os
 import pandas as pd
 from flask import Flask, jsonify
 import logging
-from google.ads.google_ads.client import GoogleAdsClient
-from google.ads.google_ads.errors import GoogleAdsException
+from google.ads.googleads.client import GoogleAdsClient
+from google.ads.googleads.errors import GoogleAdsException
 
 app = Flask(__name__)
 
