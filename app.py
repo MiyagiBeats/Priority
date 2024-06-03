@@ -161,32 +161,36 @@ def analyze_trending_keywords():
 
 @app.route('/generate_report', methods=['POST'])
 def generate_report():
-    data = request.get_json()
-    campaign_name = data.get('campaign_name')
-
-    df_campaign = load_csv('Campaign_Performance.csv')
-    df_keywords = load_csv('Keyword_Performance.csv')
-
-    campaign_data = df_campaign[df_campaign['Campaign'] == campaign_name]
-    keyword_data = df_keywords[df_keywords['Campaign'] == campaign_name]
-
-    if campaign_data.empty or keyword_data.empty:
-        return jsonify({"error": "Campaign data not found"}), 404
-
-    prompt = f"Analyze the campaign performance for '{campaign_name}' with the following metrics:\n\n"
-    prompt += campaign_data.to_string(index=False)
-    prompt += "\n\nAnalyze the keyword performance for the same campaign:\n\n"
-    prompt += keyword_data.to_string(index=False)
-
     try:
+        data = request.json
+        campaign_name = data['campaign_name']
+        campaign_df = load_csv('Campaign_Performance.csv')
+        keyword_df = load_csv('Keyword_Performance.csv')
+
+        campaign_data = campaign_df[campaign_df['Campaign'] == campaign_name]
+        keyword_data = keyword_df[keyword_df['Campaign'] == campaign_name]
+
+        messages = [
+            {"role": "system", "content": "You are a marketing analyst."},
+            {"role": "user", "content": f"Generate a report for the campaign: {campaign_name}"}
+        ]
+
+        # Adding campaign data to the messages
+        if not campaign_data.empty:
+            campaign_str = campaign_data.to_string(index=False)
+            messages.append({"role": "user", "content": f"Campaign data:\n{campaign_str}"})
+
+        # Adding keyword data to the messages
+        if not keyword_data.empty:
+            keyword_str = keyword_data.to_string(index=False)
+            messages.append({"role": "user", "content": f"Keyword data:\n{keyword_str}"})
+
         response = openai.ChatCompletion.create(
             model="gpt-4-turbo",
-            messages=[
-                {"role": "system", "content": "You are a marketing data analyst."},
-                {"role": "user", "content": prompt}
-            ],
+            messages=messages,
             max_tokens=1500
         )
+
         report = response.choices[0].message['content']
         return jsonify({"report": report})
     except Exception as e:
