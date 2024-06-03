@@ -114,7 +114,7 @@ def analyze_keyword():
     return jsonify({"data": df.to_dict(), "recommendations": recommendations})
 
 @app.route('/analyze/search_terms', methods=['GET'])
-def analyze_search_terms():
+def analyze_search_terms_route():
     df = load_csv('Search_Terms.csv')
     if isinstance(df, str):
         return jsonify({"error": df}), 500
