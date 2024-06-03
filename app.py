@@ -184,7 +184,7 @@ def generate_report():
         keyword_analysis = analyze_keyword_performance(keyword_data)
         search_terms_analysis = analyze_search_terms(search_terms_data)
         
-        # Generate report using OpenAI GPT
+        # Generate report using OpenAI GPT-4 Turbo
         report_content = f"""
         Campaign Performance Analysis for {campaign_name}:
 
@@ -198,9 +198,9 @@ def generate_report():
         {search_terms_analysis}
         """
         
-        # Use OpenAI GPT to enhance the report
+        # Use OpenAI GPT-4 Turbo to enhance the report
         response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4-turbo",
             messages=[
                 {"role": "system", "content": "Generate a detailed analysis report based on the following data."},
                 {"role": "user", "content": report_content}
