@@ -12,7 +12,6 @@ app = Flask(__name__)
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
-# Set up OpenAI API key
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def load_csv(file_name):
@@ -165,51 +164,27 @@ def generate_report():
     try:
         data = request.get_json()
         campaign_name = data.get('campaign_name')
-        
-        # Load the data for the specified campaign
-        df_campaign = load_csv('Campaign_Performance.csv')
-        df_keyword = load_csv('Keyword_Performance.csv')
-        df_search_terms = load_csv('Search_Terms.csv')
-        
-        if isinstance(df_campaign, str) or isinstance(df_keyword, str) or isinstance(df_search_terms, str):
-            return jsonify({"error": "Error loading data"}), 500
-        
-        # Filter data for the specific campaign
-        campaign_data = df_campaign[df_campaign['Campaign'] == campaign_name]
-        keyword_data = df_keyword[df_keyword['Campaign'] == campaign_name]
-        search_terms_data = df_search_terms[df_search_terms['Campaign'] == campaign_name]
+        if not campaign_name:
+            return jsonify({"error": "No campaign name provided"}), 400
 
-        # Generate analysis
-        campaign_analysis = analyze_campaign_performance(campaign_data)
-        keyword_analysis = analyze_keyword_performance(keyword_data)
-        search_terms_analysis = analyze_search_terms(search_terms_data)
-        
-        # Generate report using OpenAI GPT-4 Turbo
-        report_content = f"""
-        Campaign Performance Analysis for {campaign_name}:
+        df = load_csv('Campaign_Performance.csv')
+        campaign_data = df[df['Campaign'] == campaign_name]
+        if campaign_data.empty:
+            return jsonify({"error": "No data found for the specified campaign"}), 404
 
-        Campaign Analysis:
-        {campaign_analysis}
+        # Generate a summary of campaign performance
+        summary = campaign_data.describe().to_dict()
 
-        Keyword Analysis:
-        {keyword_analysis}
-
-        Search Terms Analysis:
-        {search_terms_analysis}
-        """
-        
-        # Use OpenAI GPT-4 Turbo to enhance the report
+        # Use OpenAI to generate a report
         response = openai.ChatCompletion.create(
             model="gpt-4-turbo",
             messages=[
-                {"role": "system", "content": "Generate a detailed analysis report based on the following data."},
-                {"role": "user", "content": report_content}
-            ],
-            max_tokens=1024
+                {"role": "system", "content": "You are a marketing analyst."},
+                {"role": "user", "content": f"Generate a detailed report on the following campaign performance: {summary}"}
+            ]
         )
-        
-        report = response.choices[0].message['content'].strip()
-        
+        report = response['choices'][0]['message']['content']
+
         return jsonify({"report": report})
     except Exception as e:
         logger.error(f"Error generating report: {e}")
