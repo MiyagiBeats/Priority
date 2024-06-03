@@ -2,6 +2,8 @@ import os
 import pandas as pd
 from flask import Flask, jsonify
 import logging
+from google.ads.google_ads.client import GoogleAdsClient
+from google.ads.google_ads.errors import GoogleAdsException
 
 app = Flask(__name__)
 
@@ -43,7 +45,7 @@ def analyze_keyword_performance(df):
             cpc = float(row['Avg. CPC']) if isinstance(row['Avg. CPC'], str) else row['Avg. CPC']
             if cpc > 1.0:
                 recommendations.append({
-                    "keyword": row['Keyword'],
+                    "keyword": row['Search keyword'],
                     "action": "reduce CPC or remove"
                 })
         except (ValueError, KeyError) as e:
@@ -57,7 +59,7 @@ def analyze_search_terms(df):
             ctr = float(row['CTR'].strip('%')) if isinstance(row['CTR'], str) else row['CTR']
             if row['Conversions'] == 0 and row['Clicks'] > 50:
                 recommendations.append({
-                    "search_term": row['Search Term'],
+                    "search_term": row['Search term'],
                     "action": "add as negative keyword"
                 })
         except (ValueError, KeyError) as e:
@@ -85,12 +87,15 @@ def analyze_audience_performance(df):
             cost_per_conversion = float(row.get('Cost per Conversion', 0))
             if cost_per_conversion > 10:
                 recommendations.append({
-                    "audience": row['Audience'],
+                    "audience": row['Audience segment'],
                     "action": "review audience targeting or exclude"
                 })
         except (ValueError, KeyError) as e:
             logger.error(f"Error processing row in analyze_audience_performance: {e}")
     return recommendations
+
+def get_google_ads_client():
+    return GoogleAdsClient.load_from_storage()
 
 @app.route('/analyze/campaign', methods=['GET'])
 def analyze_campaign():
@@ -109,7 +114,7 @@ def analyze_keyword():
     return jsonify({"data": df.to_dict(), "recommendations": recommendations})
 
 @app.route('/analyze/search_terms', methods=['GET'])
-def analyze_search_terms_endpoint():
+def analyze_search_terms():
     df = load_csv('Search_Terms.csv')
     if isinstance(df, str):
         return jsonify({"error": df}), 500
