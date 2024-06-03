@@ -2,7 +2,7 @@ services:
   - type: web
     name: my-flask-app
     env: python
-    buildCommand: ""
+    buildCommand: \"\"
     startCommand: gunicorn app:app
     envVars:
       - key: PORT
