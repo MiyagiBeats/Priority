@@ -6,14 +6,14 @@ from google.ads.googleads.client import GoogleAdsClient
 from google.ads.googleads.errors import GoogleAdsException
 from pytrends.request import TrendReq
 import openai
-import time
 
 app = Flask(__name__)
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
-openai.api_key = 'YOUR_OPENAI_API_KEY'
+# Set up OpenAI API key
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def load_csv(file_name):
     try:
@@ -151,20 +151,7 @@ def analyze_trending_keywords():
             return jsonify({"error": "No keywords provided"}), 400
 
         pytrends.build_payload(kw_list, cat=0, timeframe='now 7-d', geo='', gprop='')
-        
-        # Implement retry logic
-        attempts = 0
-        success = False
-        while attempts < 3 and not success:
-            try:
-                trending_data = pytrends.interest_over_time()
-                success = True
-            except Exception as e:
-                attempts += 1
-                time.sleep(2)  # wait for 2 seconds before retrying
-                if attempts >= 3:
-                    raise e
-
+        trending_data = pytrends.interest_over_time()
         if trending_data.empty:
             return jsonify({"error": "No trending data found"}), 404
 
@@ -175,34 +162,54 @@ def analyze_trending_keywords():
 
 @app.route('/generate_report', methods=['POST'])
 def generate_report():
-    campaign_name = request.json.get('campaign_name')
-    if not campaign_name:
-        return jsonify({"error": "No campaign name provided"}), 400
-
-    df = load_csv('Campaign_Performance.csv')
-    if isinstance(df, str):
-        return jsonify({"error": df}), 500
-
-    campaign_df = df[df['Campaign'] == campaign_name]
-    if campaign_df.empty:
-        return jsonify({"error": "No data found for the specified campaign"}), 404
-
-    report = campaign_df.to_dict(orient='records')
-    recommendations = analyze_campaign_performance(campaign_df)
-
-    # Use OpenAI API to generate detailed analysis
-    openai_prompt = f"Generate a detailed report on the following campaign data: {report} and provide recommendations: {recommendations}"
-
     try:
+        data = request.get_json()
+        campaign_name = data.get('campaign_name')
+        
+        # Load the data for the specified campaign
+        df_campaign = load_csv('Campaign_Performance.csv')
+        df_keyword = load_csv('Keyword_Performance.csv')
+        df_search_terms = load_csv('Search_Terms.csv')
+        
+        if isinstance(df_campaign, str) or isinstance(df_keyword, str) or isinstance(df_search_terms, str):
+            return jsonify({"error": "Error loading data"}), 500
+        
+        # Filter data for the specific campaign
+        campaign_data = df_campaign[df_campaign['Campaign'] == campaign_name]
+        keyword_data = df_keyword[df_keyword['Campaign'] == campaign_name]
+        search_terms_data = df_search_terms[df_search_terms['Campaign'] == campaign_name]
+
+        # Generate analysis
+        campaign_analysis = analyze_campaign_performance(campaign_data)
+        keyword_analysis = analyze_keyword_performance(keyword_data)
+        search_terms_analysis = analyze_search_terms(search_terms_data)
+        
+        # Generate report using OpenAI GPT
+        report_content = f"""
+        Campaign Performance Analysis for {campaign_name}:
+
+        Campaign Analysis:
+        {campaign_analysis}
+
+        Keyword Analysis:
+        {keyword_analysis}
+
+        Search Terms Analysis:
+        {search_terms_analysis}
+        """
+        
+        # Use OpenAI GPT to enhance the report
         response = openai.Completion.create(
             engine="text-davinci-003",
-            prompt=openai_prompt,
-            max_tokens=1500
+            prompt=f"Generate a detailed analysis report based on the following data: {report_content}",
+            max_tokens=1024
         )
-        detailed_report = response.choices[0].text.strip()
-        return jsonify({"report": detailed_report})
+        
+        report = response.choices[0].text.strip()
+        
+        return jsonify({"report": report})
     except Exception as e:
-        logger.error(f"Error generating report with OpenAI: {e}")
+        logger.error(f"Error generating report: {e}")
         return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
