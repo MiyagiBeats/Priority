@@ -199,13 +199,16 @@ def generate_report():
         """
         
         # Use OpenAI GPT to enhance the report
-        response = openai.Completion.create(
-            engine="text-davinci-003",
-            prompt=f"Generate a detailed analysis report based on the following data: {report_content}",
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "Generate a detailed analysis report based on the following data."},
+                {"role": "user", "content": report_content}
+            ],
             max_tokens=1024
         )
         
-        report = response.choices[0].text.strip()
+        report = response.choices[0].message['content'].strip()
         
         return jsonify({"report": report})
     except Exception as e:
