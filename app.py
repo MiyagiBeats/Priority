@@ -161,30 +161,33 @@ def analyze_trending_keywords():
 
 @app.route('/generate_report', methods=['POST'])
 def generate_report():
+    data = request.get_json()
+    campaign_name = data.get('campaign_name')
+
+    df_campaign = load_csv('Campaign_Performance.csv')
+    df_keywords = load_csv('Keyword_Performance.csv')
+
+    campaign_data = df_campaign[df_campaign['Campaign'] == campaign_name]
+    keyword_data = df_keywords[df_keywords['Campaign'] == campaign_name]
+
+    if campaign_data.empty or keyword_data.empty:
+        return jsonify({"error": "Campaign data not found"}), 404
+
+    prompt = f"Analyze the campaign performance for '{campaign_name}' with the following metrics:\n\n"
+    prompt += campaign_data.to_string(index=False)
+    prompt += "\n\nAnalyze the keyword performance for the same campaign:\n\n"
+    prompt += keyword_data.to_string(index=False)
+
     try:
-        data = request.get_json()
-        campaign_name = data.get('campaign_name')
-        if not campaign_name:
-            return jsonify({"error": "No campaign name provided"}), 400
-
-        df = load_csv('Campaign_Performance.csv')
-        campaign_data = df[df['Campaign'] == campaign_name]
-        if campaign_data.empty:
-            return jsonify({"error": "No data found for the specified campaign"}), 404
-
-        # Generate a summary of campaign performance
-        summary = campaign_data.describe().to_dict()
-
-        # Use OpenAI to generate a report
         response = openai.ChatCompletion.create(
             model="gpt-4-turbo",
             messages=[
-                {"role": "system", "content": "You are a marketing analyst."},
-                {"role": "user", "content": f"Generate a detailed report on the following campaign performance: {summary}"}
-            ]
+                {"role": "system", "content": "You are a marketing data analyst."},
+                {"role": "user", "content": prompt}
+            ],
+            max_tokens=1500
         )
-        report = response['choices'][0]['message']['content']
-
+        report = response.choices[0].message['content']
         return jsonify({"report": report})
     except Exception as e:
         logger.error(f"Error generating report: {e}")
