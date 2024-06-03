@@ -1,9 +1,10 @@
 import os
 import pandas as pd
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request
 import logging
 from google.ads.googleads.client import GoogleAdsClient
 from google.ads.googleads.errors import GoogleAdsException
+from pytrends.request import TrendReq
 
 app = Flask(__name__)
 
@@ -136,6 +137,24 @@ def analyze_audience():
         return jsonify({"error": df}), 500
     recommendations = analyze_audience_performance(df)
     return jsonify({"data": df.to_dict(), "recommendations": recommendations})
+
+@app.route('/analyze/trending_keywords', methods=['GET'])
+def analyze_trending_keywords():
+    try:
+        pytrends = TrendReq(hl='en-US', tz=360)
+        kw_list = request.args.get('keywords', '').split(',')
+        if not kw_list:
+            return jsonify({"error": "No keywords provided"}), 400
+
+        pytrends.build_payload(kw_list, cat=0, timeframe='now 7-d', geo='', gprop='')
+        trending_data = pytrends.interest_over_time()
+        if trending_data.empty:
+            return jsonify({"error": "No trending data found"}), 404
+
+        return jsonify(trending_data.reset_index().to_dict(orient='records'))
+    except Exception as e:
+        logger.error(f"Error fetching trending keywords: {e}")
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)), debug=True)
